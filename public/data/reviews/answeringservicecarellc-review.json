@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "9342",
+  "slug": "answeringservicecarellc-review",
+  "status": "published",
+  "name": "Answering Service Care, LLC",
+  "entityType": "SoftwareApplication",
+  "category": "Salesforce integrated",
+  "tagline": "Answering Service Care, LLC assessment for salesforce integrated buyers",
+  "summary": "Provider of live answering services, virtual receptionist, and call center solutions for businesses.",
+  "website": "https://answeringservicecare.com",
+  "brand": {
+    "name": "Answering Service Care, LLC"
+  },
+  "partner": {
+    "id": "9342",
+    "slug": "answeringservicecarellc",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "Answering Service Care, LLC product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Provider of live answering services, virtual receptionist, and call center solutions for businesses.",
+    "The source record categorizes Answering Service Care, LLC under Salesforce integrated.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Answering Service Care, LLC product information on the official website.",
+    "url": "https://answeringservicecare.com"
+  },
+  "keywords": {
+    "primary": "Answering Service Care, LLC review",
+    "secondary": [
+      "Salesforce integrated",
+      "Answering Service Care, LLC software",
+      "Answering Service Care, LLC alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.5,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 8.4,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 8.2,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "Provider of live answering services, virtual receptionist, and call center solutions for businesses. The 7.5/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "Provider of live answering services, virtual receptionist, and call center solutions for businesses.",
+    "The record supplies 16 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching salesforce integrated options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "Salesforce integrated"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is Answering Service Care, LLC?",
+      "body": "Provider of live answering services, virtual receptionist, and call center solutions for businesses."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 16 tags, 11 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist Answering Service Care, LLC only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Answering Service Care, LLC?",
+      "answer": "Provider of live answering services, virtual receptionist, and call center solutions for businesses."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Answering Service Care, LLC?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Answering Service Care, LLC score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "Answering Service Care, LLC official website",
+      "url": "https://answeringservicecare.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

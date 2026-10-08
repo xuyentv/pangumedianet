@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "10521",
+  "slug": "beautifulai-review",
+  "status": "published",
+  "name": "Beautiful.ai",
+  "entityType": "SoftwareApplication",
+  "category": "Vertical Industry Software",
+  "tagline": "Beautiful.ai assessment for vertical industry software buyers",
+  "summary": "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control.",
+  "website": "https://www.beautiful.ai/",
+  "brand": {
+    "name": "Beautiful.ai"
+  },
+  "partner": {
+    "id": "10521",
+    "slug": "beautifulai",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "Beautiful.ai product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control.",
+    "The source record categorizes Beautiful.ai under Vertical Industry Software.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Beautiful.ai product information on the official website.",
+    "url": "https://www.beautiful.ai/"
+  },
+  "keywords": {
+    "primary": "Beautiful.ai review",
+    "secondary": [
+      "Vertical Industry Software",
+      "Beautiful.ai software",
+      "Beautiful.ai alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6.8,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 8.4,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 5.5,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control. The 7.3/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching vertical industry software options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "Vertical Industry Software"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is Beautiful.ai?",
+      "body": "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 9 tags, 1 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist Beautiful.ai only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Beautiful.ai?",
+      "answer": "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Beautiful.ai?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Beautiful.ai score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "Beautiful.ai official website",
+      "url": "https://www.beautiful.ai/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

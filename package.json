@@ -1,0 +1,31 @@
+{
+  "name": "pangu-medianet",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "check": "tsc --noEmit",
+    "build:client": "vite build",
+    "build": "npm run check && npm run build:client && npm run prerender",
+    "prerender": "tsx scripts/prerender.tsx",
+    "preview": "vite preview",
+    "reviews:partners": "node script_create_review/generate-partner-reviews.mjs"
+  },
+  "dependencies": {
+    "@vitejs/plugin-react": "latest",
+    "lucide-react": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-helmet-async": "latest",
+    "react-router-dom": "latest",
+    "vite": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "tsx": "latest",
+    "typescript": "latest"
+  }
+}

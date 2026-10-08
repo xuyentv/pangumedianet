@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "9788",
+  "slug": "activecampaign-review",
+  "status": "published",
+  "name": "ActiveCampaign",
+  "entityType": "SoftwareApplication",
+  "category": "Customer Service",
+  "tagline": "ActiveCampaign assessment for customer service buyers",
+  "summary": "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp.",
+  "website": "https://www.activecampaign.com/",
+  "brand": {
+    "name": "ActiveCampaign"
+  },
+  "partner": {
+    "id": "9788",
+    "slug": "activecampaign",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "ActiveCampaign product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp.",
+    "The source record categorizes ActiveCampaign under Customer Service.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current ActiveCampaign product information on the official website.",
+    "url": "https://www.activecampaign.com/"
+  },
+  "keywords": {
+    "primary": "ActiveCampaign review",
+    "secondary": [
+      "Customer Service",
+      "ActiveCampaign software",
+      "ActiveCampaign alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.8,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 7.1,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 8.4,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 8.2,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp. The 7.8/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp.",
+    "The record supplies 20 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching customer service options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "Customer Service"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is ActiveCampaign?",
+      "body": "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 20 tags, 26 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist ActiveCampaign only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is ActiveCampaign?",
+      "answer": "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test ActiveCampaign?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the ActiveCampaign score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "ActiveCampaign official website",
+      "url": "https://www.activecampaign.com/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

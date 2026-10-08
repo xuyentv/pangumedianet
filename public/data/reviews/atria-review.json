@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "10096",
+  "slug": "atria-review",
+  "status": "published",
+  "name": "Atria",
+  "entityType": "SoftwareApplication",
+  "category": "Content Management",
+  "tagline": "Atria assessment for content management buyers",
+  "summary": "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth.",
+  "website": "https://tryatria.com",
+  "brand": {
+    "name": "Atria"
+  },
+  "partner": {
+    "id": "10096",
+    "slug": "atria",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "Atria product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth.",
+    "The source record categorizes Atria under Content Management.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Atria product information on the official website.",
+    "url": "https://tryatria.com"
+  },
+  "keywords": {
+    "primary": "Atria review",
+    "secondary": [
+      "Content Management",
+      "Atria software",
+      "Atria alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6.4,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 8.4,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 6.4,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth. The 7.3/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth.",
+    "The record supplies 20 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching content management options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "Content Management"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is Atria?",
+      "body": "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 20 tags, 3 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist Atria only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Atria?",
+      "answer": "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Atria?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Atria score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "Atria official website",
+      "url": "https://tryatria.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

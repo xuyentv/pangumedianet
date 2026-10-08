@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "10723",
+  "slug": "aftrdrk-review",
+  "status": "published",
+  "name": "AFTRDRK",
+  "entityType": "SoftwareApplication",
+  "category": "IT Management",
+  "tagline": "AFTRDRK assessment for it management buyers",
+  "summary": "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web.",
+  "website": "https://aftrdrk.com",
+  "brand": {
+    "name": "AFTRDRK"
+  },
+  "partner": {
+    "id": "10723",
+    "slug": "aftrdrk",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-23",
+  "updatedAt": "2026-09-23",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "AFTRDRK product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web.",
+    "The source record categorizes AFTRDRK under IT Management.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current AFTRDRK product information on the official website.",
+    "url": "https://aftrdrk.com"
+  },
+  "keywords": {
+    "primary": "AFTRDRK review",
+    "secondary": [
+      "IT Management",
+      "AFTRDRK software",
+      "AFTRDRK alternatives"
+    ]
+  },
+  "rating": {
+    "value": 6.7,
+    "scale": 10,
+    "label": "Developing documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6.1,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 7.2,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 5,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web. The 6.7/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web.",
+    "The record supplies 5 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching it management options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "IT Management"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is AFTRDRK?",
+      "body": "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 5 tags, 0 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist AFTRDRK only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is AFTRDRK?",
+      "answer": "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test AFTRDRK?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the AFTRDRK score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "AFTRDRK official website",
+      "url": "https://aftrdrk.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-23"
+  }
+}

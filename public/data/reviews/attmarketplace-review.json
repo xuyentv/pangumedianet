@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "10858",
+  "slug": "attmarketplace-review",
+  "status": "published",
+  "name": "AT&T",
+  "entityType": "SoftwareApplication",
+  "category": "IoT Management",
+  "tagline": "AT&T assessment for iot management buyers",
+  "summary": "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air.",
+  "website": "https://marketplace.att.com",
+  "brand": {
+    "name": "AT&T"
+  },
+  "partner": {
+    "id": "10858",
+    "slug": "attmarketplace",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "AT&T product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air.",
+    "The source record categorizes AT&T under IoT Management.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current AT&T product information on the official website.",
+    "url": "https://marketplace.att.com"
+  },
+  "keywords": {
+    "primary": "AT&T review",
+    "secondary": [
+      "IoT Management",
+      "AT&T software",
+      "AT&T alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6.7,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 8.4,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 5.5,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air. The 7.3/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching iot management options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "IoT Management"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is AT&T?",
+      "body": "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 9 tags, 1 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist AT&T only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is AT&T?",
+      "answer": "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test AT&T?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the AT&T score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "AT&T official website",
+      "url": "https://marketplace.att.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

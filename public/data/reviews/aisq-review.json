@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "10580",
+  "slug": "aisq-review",
+  "status": "published",
+  "name": "AISQ",
+  "entityType": "SoftwareApplication",
+  "category": "Marketing",
+  "tagline": "AISQ assessment for marketing buyers",
+  "summary": "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market.",
+  "website": "https://aisq.com/meteor",
+  "brand": {
+    "name": "AISQ"
+  },
+  "partner": {
+    "id": "10580",
+    "slug": "aisq",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "AISQ product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market.",
+    "The source record categorizes AISQ under Marketing.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current AISQ product information on the official website.",
+    "url": "https://aisq.com/meteor"
+  },
+  "keywords": {
+    "primary": "AISQ review",
+    "secondary": [
+      "Marketing",
+      "AISQ software",
+      "AISQ alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6.8,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 8.4,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 5.5,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market. The 7.3/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market.",
+    "The record supplies 19 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching marketing options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "Marketing"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is AISQ?",
+      "body": "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 19 tags, 1 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist AISQ only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is AISQ?",
+      "answer": "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test AISQ?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the AISQ score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "AISQ official website",
+      "url": "https://aisq.com/meteor",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

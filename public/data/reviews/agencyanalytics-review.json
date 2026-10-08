@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 2,
+  "id": "10489",
+  "slug": "agencyanalytics-review",
+  "status": "published",
+  "name": "AgencyAnalytics",
+  "entityType": "SoftwareApplication",
+  "category": "Digital Advertising",
+  "tagline": "AgencyAnalytics assessment for digital advertising buyers",
+  "summary": "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence.",
+  "website": "https://agencyanalytics.com/",
+  "brand": {
+    "name": "AgencyAnalytics"
+  },
+  "partner": {
+    "id": "10489",
+    "slug": "agencyanalytics",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Vendor and structured dataset information",
+  "methodology": {
+    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
+    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+  },
+  "media": {
+    "gallery": [],
+    "videoTitle": "AgencyAnalytics product overview"
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence.",
+    "The source record categorizes AgencyAnalytics under Digital Advertising.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current AgencyAnalytics product information on the official website.",
+    "url": "https://agencyanalytics.com/"
+  },
+  "keywords": {
+    "primary": "AgencyAnalytics review",
+    "secondary": [
+      "Digital Advertising",
+      "AgencyAnalytics software",
+      "AgencyAnalytics alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.2,
+    "scale": 10,
+    "label": "Solid documented profile",
+    "criteria": [
+      {
+        "key": "information",
+        "label": "Information clarity",
+        "score": 6.8,
+        "weight": 30,
+        "summary": "Measures how clearly the available source record explains the product."
+      },
+      {
+        "key": "positioning",
+        "label": "Use-case positioning",
+        "score": 7.6,
+        "weight": 25,
+        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+      },
+      {
+        "key": "access",
+        "label": "Product access",
+        "score": 8,
+        "weight": 20,
+        "summary": "Reflects whether an official product destination is available for verification."
+      },
+      {
+        "key": "commercial",
+        "label": "Commercial detail",
+        "score": 5.9,
+        "weight": 15,
+        "summary": "Reflects the amount of structured offer information available in the source data."
+      },
+      {
+        "key": "freshness",
+        "label": "Record freshness",
+        "score": 7.5,
+        "weight": 10,
+        "summary": "Reflects whether the source record provides an update timestamp."
+      }
+    ]
+  },
+  "verdict": "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence. The 7.2/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "pros": [
+    "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence.",
+    "The record supplies 6 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams researching digital advertising options",
+    "Buyers who will validate requirements directly with the vendor"
+  ],
+  "notIdealFor": [
+    "Buyers seeking independently benchmarked performance data",
+    "Teams requiring verified pricing or compliance conclusions from this page alone"
+  ],
+  "keyFacts": [
+    {
+      "label": "Category",
+      "value": "Digital Advertising"
+    },
+    {
+      "label": "Evidence basis",
+      "value": "Structured partner record"
+    },
+    {
+      "label": "Independent hands-on test",
+      "value": "Not performed"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "What is AgencyAnalytics?",
+      "body": "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence."
+    },
+    {
+      "heading": "Available product evidence",
+      "body": "This review uses the supplied record's product description, 6 tags, 2 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+    },
+    {
+      "heading": "Evaluation guidance",
+      "body": "Shortlist AgencyAnalytics only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is AgencyAnalytics?",
+      "answer": "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test AgencyAnalytics?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the AgencyAnalytics score calculated?",
+      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "title": "AgencyAnalytics official website",
+      "url": "https://agencyanalytics.com/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

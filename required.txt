@@ -1,0 +1,1032 @@
+MASTER REQUIREMENTS — SCALABLE SOFTWARE REVIEW WEBSITE
+Version: 2.0
+Status: Based on the completed Fuxi Medianet implementation
+Purpose: Reuse this specification to launch multiple independent software-review websites from the same proven architecture.
+
+======================================================================
+1. ROLE AND DELIVERY OBJECTIVE
+======================================================================
+
+Act as a senior React/TypeScript engineer, SEO architect, UX designer, structured-data specialist, and static-site publishing engineer.
+
+Build a production-ready software review website that:
+
+- Publishes hundreds or thousands of product reviews from structured JSON.
+- Keeps archive pages lightweight by loading a manifest rather than every complete review.
+- Gives every published review a unique, canonical, prerendered HTML page.
+- Produces valid metadata, JSON-LD, sitemap.xml, and robots.txt.
+- Works as a fully static deployment with no database or runtime backend.
+- Supports automated research generation while allowing manual editorial edits.
+- Can be cloned for a new brand without rewriting the application architecture.
+
+The result must feel like an independent software research publication, not a thin affiliate directory or generic AI blog.
+
+======================================================================
+2. REQUIRED TECHNOLOGY
+======================================================================
+
+Use the existing project architecture unless a migration is explicitly requested:
+
+- React
+- TypeScript
+- Vite
+- React Router
+- react-helmet-async
+- Lucide React
+- Plain modular CSS files
+- Node.js generation scripts
+- React server rendering for build-time prerendering
+- Static JSON data
+
+Do not add a backend, database, authentication service, CMS, or runtime API dependency merely to render published reviews.
+
+Required npm commands:
+
+- npm run dev
+- npm run check
+- npm run build
+- npm run prerender
+- npm run preview
+- npm run reviews:partners
+
+The production build must execute TypeScript validation, the Vite client build, and prerendering.
+
+======================================================================
+3. MULTI-SITE BRAND CONFIGURATION
+======================================================================
+
+For every new website, define and verify these values before content generation:
+
+SITE_ID=[unique-lowercase-site-id]
+SITE_NAME=[publication name]
+SITE_URL=https://example.com
+SITE_TAGLINE=[short independent research statement]
+SITE_LANGUAGE=en
+SITE_LOCALE=en-US
+SITE_TIMEZONE=[editorial timezone]
+SITE_EMAIL=[editorial email]
+SITE_PHONE=[optional business phone]
+SITE_ADDRESS=[optional business address]
+SITE_AUTHOR_NAME=[person or editorial team]
+SITE_AUTHOR_SLUG=[author slug]
+SITE_PRIMARY_COLOR=[hex]
+SITE_SECONDARY_COLOR=[hex]
+SITE_LOGO=/images/logo.png
+SITE_DEFAULT_OG_IMAGE=/images/og-default.svg
+SITE_FACEBOOK=[optional URL]
+SITE_INSTAGRAM=[optional URL]
+SITE_TIKTOK=[optional URL]
+SITE_X=[optional URL]
+SITE_YOUTUBE=[optional URL]
+
+At minimum, update the central SITE object in src/data/content.ts. Avoid scattering brand name, domain, email, colors, social links, or organization details throughout components.
+
+For scaling beyond a few websites, move all site-specific values into a typed site-config module while preserving the SITE export consumed by SEO and prerender code.
+
+Every cloned website must have:
+
+- Its own domain and canonical base URL.
+- Its own title/tagline and logo.
+- Its own default social image.
+- Its own contact and legal information.
+- Its own social profiles.
+- Its own content dataset and review manifest.
+- No references to the source brand unless intentionally retained.
+
+======================================================================
+4. PROJECT STRUCTURE AND RESPONSIBILITIES
+======================================================================
+
+Preserve this separation of concerns:
+
+public/data/partnerdata.json
+- Raw PartnerStack/product source data.
+- Large source file; never import it directly into the client JavaScript bundle.
+
+public/data/reviews/index.json
+- Lightweight review manifest used by homepage, review archive, product archive, prerender, and sitemap generation.
+- Contains summary fields only.
+
+public/data/reviews/<slug>-review.json
+- One complete generated review per file.
+- Manually editable after generation.
+- Source of truth for generated review detail pages.
+
+.cache/partner-review-research/
+- Temporary Serper/research cache.
+- Must be ignored by Git through .cache/ in .gitignore.
+- Never deploy or commit API research cache unless explicitly required.
+
+script_create_review/generate-partner-reviews.mjs
+- Reads product source data.
+- Researches products.
+- Generates individual review files.
+- Updates the manifest.
+- Supports cached retries and publishing workflow.
+
+src/types/content.ts
+- Canonical TypeScript contracts for frontend review data and generated review data.
+
+src/data/generatedReviews.ts
+- Loads generated JSON in the browser.
+- Validates publish state and schema version.
+- Normalizes generated review data into the frontend ReviewProject model.
+- Exports the normalizer for build-time prerendering.
+
+src/pages/HomePage.tsx
+- Manifest-driven homepage summary list.
+
+src/pages/ArchivePages.tsx
+- Manifest-driven complete review archive and PartnerStack product directory.
+
+src/pages/ReviewPage.tsx
+- Full review detail renderer and JSON-LD producer.
+- Generated review JSON takes precedence over duplicate static review content.
+
+src/components/seo/SEO.tsx
+- Canonical metadata, robots, Open Graph, Twitter, and JSON-LD output.
+
+scripts/prerender.tsx
+- Build-time HTML rendering.
+- Reads the generated review manifest and detail JSON.
+- Produces one HTML file per public route.
+- Produces sitemap.xml, robots.txt, feed.xml, and route-manifest.json.
+
+src/styles/
+- Keep page-level styles modular.
+- Do not place all styles in one growing file.
+
+======================================================================
+5. DATA ARCHITECTURE
+======================================================================
+
+5.1 Review manifest contract
+
+public/data/reviews/index.json must contain:
+
+{
+  "schemaVersion": 1,
+  "generatedAt": "ISO-8601 timestamp",
+  "reviews": [
+    {
+      "slug": "product-review",
+      "name": "Product Name",
+      "category": "Category",
+      "status": "published",
+      "score": 8.6,
+      "excerpt": "Concise review summary.",
+      "updatedAt": "YYYY-MM-DD",
+      "cover": {
+        "src": "https://...",
+        "alt": "Descriptive image alt text",
+        "caption": "Optional source caption"
+      },
+      "file": "product-review.json"
+    }
+  ]
+}
+
+Manifest requirements:
+
+- slug must be unique.
+- status must support draft and published.
+- Only published records appear publicly.
+- score uses the generated 10-point scale.
+- file must point to an existing JSON file.
+- excerpt must be useful as a card summary and meta-description fallback.
+- updatedAt must be a valid date.
+- The manifest must not contain full article sections or large research payloads.
+
+5.2 Full generated review contract
+
+Each review must use schemaVersion 2 and include:
+
+- id
+- slug
+- status
+- name
+- entityType
+- category
+- tagline
+- summary
+- website
+- brand
+- partner/source identity
+- publishedAt
+- updatedAt
+- evidence level
+- methodology metadata
+- media
+- author
+- highlights
+- offer
+- primary and secondary keywords
+- rating value, scale, label, and weighted criteria
+- verdict
+- pros
+- cons
+- bestFor
+- notIdealFor
+- key facts
+- content sections
+- FAQ
+- images
+- sources
+- generation metadata
+
+5.3 Media contract
+
+Use:
+
+media: {
+  cover: {
+    src: string,
+    alt: string,
+    caption?: string
+  },
+  gallery: Array<{
+    src: string,
+    alt: string,
+    caption?: string
+  }>,
+  youtubeUrl?: string,
+  videoUrl?: string,
+  videoTitle: string
+}
+
+Rules:
+
+- youtubeUrl is preferred for official YouTube watch, share, Shorts, live, or embed links.
+- videoUrl remains available for Vimeo or direct video files.
+- Do not render any video UI when both URLs are empty.
+- Cover images must use descriptive alt text.
+- Manual media edits in generated JSON must appear immediately and must not be overridden by static fallback data.
+
+5.4 Rating contract
+
+- Generated JSON uses a 10-point scale.
+- Frontend normalization may display a 5-point scale where required by the existing detail UI.
+- Criteria must include key, label, score, weight, and summary.
+- Criteria weights should total 100.
+- Scores must be evidence-conscious and must not imply hands-on testing unless actual testing occurred.
+
+======================================================================
+6. CONTENT GENERATION WORKFLOW
+======================================================================
+
+The generator must:
+
+1. Read eligible products from public/data/partnerdata.json.
+2. Exclude unapproved, archived, test, or invalid products.
+3. Resolve the official website URL.
+4. Use Serper search/scrape evidence where enabled.
+5. Cache research responses under .cache/partner-review-research/.
+6. Generate one review JSON per product.
+7. Write or update public/data/reviews/index.json.
+8. Support draft and published output.
+9. Use atomic writes for shared files such as index.json.
+10. Retry transient API or filesystem failures.
+11. Support cached-only retries so failed manifest writes do not consume new API credits.
+12. Never erase manual youtubeUrl, videoUrl, or cover edits during unrelated regeneration unless overwrite is explicitly requested.
+
+Recommended commands:
+
+Generate/publish all eligible products:
+
+npm run reviews:partners -- --publish
+
+Generate selected IDs:
+
+npm run reviews:partners -- --ids 10350,9186 --limit 2 --publish
+
+Retry from cache:
+
+npm run reviews:partners -- --ids 10350,9186 --limit 2 --cached-only --publish
+
+Security requirement:
+
+- Prefer environment variables or a secret manager for API keys on new websites.
+- Never expose a Serper/API key in browser JavaScript, public JSON, static HTML, logs, or Git history.
+- If a direct script constant is required by a private local workflow, keep the script server-side/build-time only and exclude real credentials from distributed templates.
+
+Editorial requirements:
+
+- Separate verified facts, vendor claims, and editorial conclusions.
+- Cite source URLs in generated data.
+- Do not invent pricing, customer counts, integrations, certifications, or hands-on experience.
+- Avoid repetitive filler and unsupported superlatives.
+- Keep visible copy useful even without affiliate links.
+- Research/methodology metadata may remain in JSON without being displayed as a repetitive UI block.
+
+======================================================================
+7. ROUTES AND NAVIGATION
+======================================================================
+
+Required primary navigation:
+
+- Home: /
+- Products: /software/
+- About: /about/
+- Contact: /contact/
+- Disclaimer: /disclaimer/
+- Social links: Facebook, Instagram, TikTok, X, YouTube when configured
+
+Use recognizable brand colors for social links while maintaining accessible contrast.
+
+Required public routes:
+
+/
+/software/
+/reviews/
+/reviews/:slug/
+/about/
+/contact/
+/disclaimer/
+/editorial-policy/
+/affiliate-disclosure/
+/privacy-policy/
+/terms/
+
+Optional legacy/editorial routes may remain:
+
+/software/:slug/
+/comparisons/
+/comparisons/:slug/
+/insights/
+/insights/:slug/
+/category/:slug/
+/alternatives/:slug/
+/author/:slug/
+
+Search and error routes:
+
+/search/
+/404/
+
+Do not include /search/ or /404/ in sitemap.xml.
+
+======================================================================
+8. HOMEPAGE REQUIREMENTS
+======================================================================
+
+The homepage must focus on generated project reviews, not unrelated static articles or mixed promotional blocks.
+
+Data source:
+
+- Fetch /data/reviews/index.json.
+- Filter status === published.
+- Do not fetch every complete review JSON on the homepage.
+
+Homepage content:
+
+- Concise hero explaining the review publication.
+- Published review count.
+- Search input.
+- Category filter.
+- Review-result count.
+- First 24 summary cards by default.
+- Link to the complete /reviews/ archive.
+- Loading, error, and no-result states.
+
+Each homepage review card shows only:
+
+- Cover image or initials fallback.
+- Product name.
+- Category.
+- Score out of 10.
+- Short excerpt.
+- Updated month/year.
+- Link to /reviews/<slug>/.
+
+Do not render full sections, FAQs, pros/cons, or long verdict content on homepage cards.
+
+Responsive layout:
+
+- 3 columns on desktop.
+- 2 columns on tablet.
+- 1 column on mobile.
+
+======================================================================
+9. REVIEW ARCHIVE REQUIREMENTS
+======================================================================
+
+/reviews/ must use public/data/reviews/index.json.
+
+Features:
+
+- All published reviews discoverable.
+- Search by product name, category, and excerpt.
+- Exact category filtering.
+- Query-string state using q, category, and page.
+- 12 cards per page.
+- Previous/next controls.
+- Numbered pagination with ellipses.
+- Result count.
+- Loading skeletons.
+- Error state.
+- Empty state.
+- Smooth return to results when changing pages.
+
+Each card shows:
+
+- Cover or fallback initials.
+- Score.
+- Category.
+- Product review title.
+- Short excerpt.
+- Updated date.
+- Read-review action.
+
+Never build this archive from a small static article array when generated reviews exist.
+
+======================================================================
+10. PRODUCTS DIRECTORY REQUIREMENTS
+======================================================================
+
+/software/ reads public/data/partnerdata.json at runtime and filters eligible products.
+
+Features:
+
+- Product search.
+- PartnerStack marketplace category filter.
+- URL query state.
+- 12 products per page.
+- Pagination.
+- Loading/error/empty states.
+- Official website link with sponsored/nofollow where applicable.
+- “Read review” link only when the corresponding published manifest slug exists.
+
+To determine review availability, load only index.json and create a Set of published review slugs.
+
+Do not import the massive partnerdata.json into the JavaScript bundle.
+
+======================================================================
+11. REVIEW DETAIL PAGE REQUIREMENTS
+======================================================================
+
+Route:
+
+/reviews/:slug/
+
+Data precedence:
+
+1. Build-time injected generated review for prerender.
+2. Browser-loaded /data/reviews/<slug>.json.
+3. Static local review only as fallback.
+4. 404 if no valid review exists.
+
+Generated JSON must take precedence over static data so manual changes to cover, video, content, or score appear correctly.
+
+Required detail sections:
+
+- Breadcrumbs.
+- Product/category identity.
+- H1 including product name and current review year.
+- Concise summary.
+- Published/updated information.
+- Author.
+- Editorial score.
+- Cover image when present.
+- Optional product video when present.
+- Editor verdict.
+- Best-for and not-for guidance.
+- Offer/official website CTA.
+- Affiliate disclosure.
+- Key takeaways.
+- Structured content sections.
+- Optional gallery.
+- Weighted score breakdown.
+- Pros and cons.
+- FAQ.
+- Author block.
+- Sticky or supporting purchase card on desktop.
+
+Video support:
+
+- YouTube watch URLs.
+- youtu.be URLs.
+- YouTube Shorts URLs.
+- YouTube live URLs.
+- YouTube embed URLs.
+- Vimeo URLs.
+- Direct video fallback.
+- Use youtube-nocookie.com for YouTube embeds.
+- Render nothing when video fields are empty.
+
+======================================================================
+12. ABOUT, CONTACT, AND DISCLAIMER
+======================================================================
+
+These pages must not be minimal placeholder paragraphs.
+
+About page:
+
+- Publication purpose.
+- How research helps buyers.
+- Evidence-before-opinion principle.
+- Decision-focused research principle.
+- Editorial independence.
+- Intended audience.
+- Link to review archive.
+
+Contact page:
+
+- Editorial email.
+- Clickable phone when configured.
+- Business address when configured.
+- Correction-submission instructions.
+- Vendor-submission expectations.
+- Required supporting evidence.
+- Editorial-independence notice.
+
+Disclaimer page:
+
+- General information limitation.
+- Product data may change.
+- Ratings are editorial assessments, not guarantees.
+- Affiliate relationship disclosure.
+- Third-party website limitation.
+- Buyer due-diligence responsibility.
+- Links to editorial policy and affiliate disclosure.
+- Last-reviewed date.
+
+Design:
+
+- High-contrast text suitable for the dark theme.
+- Strong heading hierarchy.
+- Responsive cards and callouts.
+- Semantic headings, address, navigation, and links.
+
+======================================================================
+13. DESIGN SYSTEM
+======================================================================
+
+Direction:
+
+- Premium technology/editorial publication.
+- Dark background with restrained blue/violet gradients.
+- High-contrast white headings.
+- Readable blue-gray body copy.
+- Consistent borders and rounded cards.
+- Clear focus and hover states.
+- No low-contrast gray text on dark gray surfaces.
+- No unnecessary animation.
+- Respect prefers-reduced-motion.
+
+Layout:
+
+- Global container approximately 1160px.
+- Responsive at desktop, tablet, and mobile sizes.
+- Sticky navigation may be used.
+- Archive toolbars may be sticky on desktop but static on small screens.
+
+CSS organization:
+
+- index.css for global layout/theme.
+- reviews.css for review detail foundations.
+- review-video.css for video component.
+- review-archive.css for complete review archive.
+- home-reviews.css for homepage review directory.
+- info-pages.css for About/Contact/Disclaimer.
+
+Do not introduce conflicting global selectors when a page-specific class can be used.
+
+======================================================================
+14. SEO METADATA REQUIREMENTS
+======================================================================
+
+Every indexable page must produce:
+
+- Unique title.
+- Useful meta description.
+- Absolute canonical URL.
+- robots=index,follow,max-image-preview:large.
+- Open Graph type.
+- Open Graph site name.
+- Open Graph title.
+- Open Graph description.
+- Open Graph URL.
+- Open Graph image.
+- Open Graph image alt.
+- Twitter summary_large_image card.
+- Twitter title.
+- Twitter description.
+- Twitter image.
+
+Rules:
+
+- Normalize canonical paths with trailing slashes.
+- Use SITE.url as the canonical base.
+- Use page-specific cover images for reviews.
+- Fall back to the site default social image.
+- Mark search pages noindex,follow.
+- Error pages must not be included in sitemap.
+- Do not render duplicate canonical tags.
+
+======================================================================
+15. JSON-LD REQUIREMENTS
+======================================================================
+
+Homepage:
+
+- WebSite.
+- SearchAction pointing to /reviews/?q={search_term_string} or the active site search route.
+- Organization with configured social sameAs URLs.
+
+Review page @graph:
+
+1. Reviewed entity
+   - Product, SoftwareApplication, or Service as appropriate.
+   - Stable @id ending in #item.
+   - name.
+   - description.
+   - category.
+   - image.
+   - brand.
+   - official URL.
+   - Offer when valid.
+
+2. Review
+   - Stable @id ending in #review.
+   - itemReviewed reference.
+   - headline.
+   - reviewBody.
+   - datePublished.
+   - dateModified.
+   - author.
+   - publisher.
+   - reviewRating with ratingValue, bestRating, and worstRating.
+
+3. FAQPage
+   - One Question per visible FAQ.
+   - acceptedAnswer text must match visible page content.
+
+4. BreadcrumbList
+   - Home.
+   - Reviews.
+   - Current review.
+
+5. Optional VideoObject
+   - Only when a video URL exists.
+   - name.
+   - description.
+   - thumbnailUrl.
+   - uploadDate.
+   - contentUrl.
+   - embedUrl when resolvable.
+
+Structured-data rules:
+
+- JSON-LD must describe visible content.
+- Do not claim aggregate user ratings when only an editorial score exists.
+- Do not use fake review counts.
+- Do not include empty properties.
+- Dates must be valid ISO-compatible values.
+- Author and publisher URLs must be absolute after rendering.
+
+======================================================================
+16. PRERENDERING AND STATIC SEO OUTPUT
+======================================================================
+
+A pure SPA is not acceptable for SEO-critical routes.
+
+scripts/prerender.tsx must:
+
+1. Read dist/index.html after the Vite build.
+2. Build a complete route list.
+3. Read public/data/reviews/index.json.
+4. Filter published reviews.
+5. Load every published review detail JSON.
+6. Normalize each generated review.
+7. Inject the matching review into App during server rendering.
+8. Render complete review HTML—not a loading shell.
+9. Collect Helmet title, meta, link, script, and HTML attributes.
+10. Write dist/<route>/index.html.
+11. Generate sitemap.xml.
+12. Generate robots.txt.
+13. Generate feed.xml.
+14. Generate route-manifest.json.
+
+Required route coverage:
+
+- All static public pages.
+- All generated published review routes.
+- All retained static product/article/comparison/category/author routes.
+- /disclaimer/.
+
+Review hydration contract:
+
+- App accepts an optional initialReview.
+- ReviewPage uses initialReview only when its slug matches the current route.
+- Browser navigation still fetches generated review JSON normally.
+- Prerendered HTML contains the full article and JSON-LD.
+
+======================================================================
+17. SITEMAP.XML REQUIREMENTS
+======================================================================
+
+Generate dist/sitemap.xml during every production build.
+
+Include:
+
+- Homepage.
+- Products archive.
+- Reviews archive.
+- Every published generated review.
+- About.
+- Contact.
+- Disclaimer.
+- Editorial policy.
+- Affiliate disclosure.
+- Privacy policy.
+- Terms.
+- Other retained indexable content routes.
+
+Exclude:
+
+- /404/.
+- /search/.
+- Draft reviews.
+- Missing review files.
+- Internal cache/data URLs.
+
+Each review URL should include lastmod from updatedAt.
+
+All loc values must:
+
+- Be absolute.
+- Use the production SITE.url.
+- Use trailing slashes consistently.
+- Be XML escaped.
+
+For future sites exceeding 50,000 URLs or 50 MB uncompressed, generate a sitemap index and split child sitemaps by content type or chunk.
+
+======================================================================
+18. ROBOTS.TXT REQUIREMENTS
+======================================================================
+
+Generate dist/robots.txt during every production build.
+
+Minimum output:
+
+User-agent: *
+Allow: /
+Disallow: /search/
+Sitemap: https://example.com/sitemap.xml
+
+The Sitemap URL must use SITE.url.
+
+Do not block CSS, JavaScript, images, review JSON, or public data required for page rendering.
+
+======================================================================
+19. INTERNAL LINKING AND DISCOVERY
+======================================================================
+
+Ensure:
+
+- Homepage cards link to review detail pages.
+- Review archive links to every published review through pagination/filtering.
+- Product cards link to reviews when a published review exists.
+- Review breadcrumbs link to Home and Reviews.
+- About links to Reviews.
+- Disclaimer links to Editorial Policy and Affiliate Disclosure.
+- Header/footer expose primary utility pages.
+
+Use normal anchor links or React Router links that render as crawlable anchors.
+
+======================================================================
+20. PERFORMANCE AND ACCESSIBILITY
+======================================================================
+
+Performance:
+
+- Load index.json on listing pages, not hundreds of full reviews.
+- Lazy-load card/gallery images.
+- Keep review detail JSON per file for cacheability.
+- Avoid bundling partnerdata.json.
+- Use pagination rather than rendering hundreds of cards at once.
+- Prerender SEO-critical HTML.
+
+Accessibility:
+
+- Semantic headings in logical order.
+- Descriptive image alt text.
+- Visible keyboard focus.
+- Form labels, including visually hidden labels where appropriate.
+- Accessible pagination labels.
+- Sufficient color contrast.
+- Reduced-motion support.
+- Descriptive external-link and CTA text.
+- No empty iframe/video containers.
+
+======================================================================
+21. GIT AND SECURITY RULES
+======================================================================
+
+.gitignore must include at least:
+
+node_modules/
+dist/
+.cache/
+.env
+.env.local
+.env.*.local
+*.log
+*.tsbuildinfo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+Do not commit:
+
+- API keys.
+- .env files.
+- Serper cache.
+- Production build output unless deployment explicitly requires it.
+- Temporary atomic-write files.
+
+If a cache was previously tracked, remove it from the Git index before the next commit.
+
+======================================================================
+22. NEW WEBSITE CLONING CHECKLIST
+======================================================================
+
+Phase A — Brand
+
+[ ] Change package name.
+[ ] Change SITE name, URL, and tagline.
+[ ] Replace logo, favicon, and default social image.
+[ ] Replace colors and brand initials.
+[ ] Replace social URLs.
+[ ] Replace contact email, phone, and address.
+[ ] Replace author/editorial identity.
+[ ] Review all legal text for the new operator and jurisdiction.
+
+Phase B — Data
+
+[ ] Add the new partner/product source JSON.
+[ ] Confirm eligible-product filtering.
+[ ] Clear old public/data/reviews content when creating an unrelated site.
+[ ] Clear old research cache locally.
+[ ] Configure generation credentials securely.
+[ ] Generate a small test batch.
+[ ] Review factual quality and schema validity.
+[ ] Generate/publish the full batch.
+[ ] Confirm manifest count equals detail-file count.
+
+Phase C — UI
+
+[ ] Confirm homepage uses the new manifest.
+[ ] Confirm review archive shows all published reviews.
+[ ] Confirm products expose review links correctly.
+[ ] Confirm manual cover/video edits appear.
+[ ] Verify desktop, tablet, and mobile layouts.
+[ ] Verify About, Contact, and Disclaimer content.
+
+Phase D — SEO
+
+[ ] Confirm every canonical uses the new domain.
+[ ] Confirm default and review-specific social images.
+[ ] Confirm Organization sameAs links.
+[ ] Confirm review JSON-LD.
+[ ] Confirm FAQ content matches visible content.
+[ ] Confirm all review routes prerender complete HTML.
+[ ] Confirm sitemap contains every published review.
+[ ] Confirm robots references the correct sitemap.
+[ ] Confirm /search/ and /404/ are excluded from sitemap.
+
+Phase E — Deployment
+
+[ ] Run npm run check.
+[ ] Run npm run build.
+[ ] Inspect dist/sitemap.xml.
+[ ] Inspect dist/robots.txt.
+[ ] Inspect one generated review HTML file.
+[ ] Deploy dist/ to static hosting.
+[ ] Verify direct navigation to nested routes.
+[ ] Submit sitemap in Google Search Console and Bing Webmaster Tools.
+
+======================================================================
+23. REQUIRED AUTOMATED ACCEPTANCE CHECKS
+======================================================================
+
+A release is valid only when all checks pass.
+
+Type/build checks:
+
+- npm run check exits 0.
+- npm run build exits 0.
+- Prerender exits 0.
+
+Manifest checks:
+
+- Published review count is greater than zero.
+- Every published item has slug, name, category, numeric score, excerpt, updatedAt, and file.
+- Every published file exists.
+- No duplicate published slugs.
+- No draft review appears in public archives or sitemap.
+
+Route checks:
+
+- Every published review has dist/reviews/<slug>/index.html.
+- Prerendered review HTML contains review-detail.
+- Prerendered review HTML does not contain only “Loading review research”.
+- /disclaimer/index.html exists.
+
+SEO checks on a representative review:
+
+- Unique title exists.
+- Meta description exists.
+- robots meta exists.
+- Canonical points to the exact production review URL.
+- og:title, og:description, og:url, and og:image exist.
+- twitter:card and twitter:image exist.
+- application/ld+json exists.
+- JSON-LD includes Review.
+- JSON-LD includes reviewed entity.
+- JSON-LD includes Rating.
+- JSON-LD includes FAQPage when FAQs are visible.
+- JSON-LD includes BreadcrumbList.
+- JSON-LD includes VideoObject only when video exists.
+
+Sitemap/robots checks:
+
+- dist/sitemap.xml exists.
+- dist/robots.txt exists.
+- Every published review URL is in sitemap.xml.
+- Review entries include lastmod.
+- /search/ is absent from sitemap.xml.
+- /404/ is absent from sitemap.xml.
+- robots.txt allows normal crawling.
+- robots.txt disallows /search/.
+- robots.txt references the production sitemap URL.
+
+======================================================================
+24. CONTENT QUALITY ACCEPTANCE
+======================================================================
+
+Reject or revise content that:
+
+- Claims hands-on testing without evidence.
+- Invents prices, features, integrations, security claims, customers, or awards.
+- Repeats the same generic paragraph across many reviews.
+- Uses unsupported “best,” “number one,” or guarantee language.
+- Hides important limitations.
+- Uses an affiliate CTA as the main substance of the page.
+- Has no clear best-for or not-for guidance.
+- Has FAQ answers unrelated to visible content.
+- Uses broken or irrelevant cover images.
+- Uses undated or unverifiable claims as current facts.
+
+Every published review should help a reader understand:
+
+- What the product is.
+- Who it is for.
+- What it does well.
+- What limitations to consider.
+- How the score was formed.
+- What should be verified before purchase.
+- Where to find the official product source.
+
+======================================================================
+25. DEFINITION OF DONE
+======================================================================
+
+The website is complete only when:
+
+1. Homepage displays concise generated review summaries.
+2. Review archive exposes every published review.
+3. Product directory links to available reviews.
+4. Every review detail route loads generated JSON correctly.
+5. Manual cover and video edits appear on the page.
+6. About, Contact, and Disclaimer are complete and readable.
+7. Metadata and social tags are present.
+8. Review JSON-LD is present and aligned with visible content.
+9. Every published review has full prerendered HTML.
+10. sitemap.xml contains every indexable published route.
+11. robots.txt references sitemap.xml.
+12. TypeScript and production build pass.
+13. Cache and secrets are excluded from Git.
+14. The site can be deployed as static files from dist/.
+15. A new brand can be launched by replacing configuration, assets, legal/contact details, and data—without rewriting the core review architecture.
+
+======================================================================
+26. CURRENT REFERENCE IMPLEMENTATION BASELINE
+======================================================================
+
+The completed reference implementation currently demonstrates:
+
+- 403 published generated reviews.
+- Manifest-driven homepage and review archive.
+- Search, category filters, and pagination.
+- Generated-review-first data precedence.
+- Optional cover, gallery, YouTube, Vimeo, and direct-video support.
+- Complete review JSON-LD.
+- Dynamic review social images.
+- 464 prerendered routes.
+- sitemap.xml and robots.txt generated during build.
+- Every published review included in sitemap and prerender output.
+- Zero missing published review files in the validated dataset.
+
+When adapting this specification to another website, preserve these architectural guarantees even if the design, niche, product source, review count, and brand identity change.

@@ -1,0 +1,366 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-08T09:41:07.181Z",
+  "reviews": [
+    {
+      "slug": "1password-review",
+      "name": "1Password",
+      "category": "hot",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Password manager that helps individuals and teams store, organize, and securely share passwords and other sensitive information.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/1password-review.json"
+    },
+    {
+      "slug": "800-review",
+      "name": "800.com",
+      "category": "Collaboration & Productivity",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "Custom toll-free numbers for businesses to improve customer engagement.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/800-review.json"
+    },
+    {
+      "slug": "8fig-review",
+      "name": "8fig",
+      "category": "Shopify integrated",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Financial planning and forecasting platform that helps e-commerce businesses scale by optimizing cash flow and funding.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/8fig-review.json"
+    },
+    {
+      "slug": "acceleratedgrowthstudio-review",
+      "name": "Accelerated Growth Studio",
+      "category": "Digital Advertising",
+      "status": "published",
+      "score": 6.8,
+      "excerpt": "We build DTC brands one click at a time with best-in-class performance strategy and social media buying.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/acceleratedgrowthstudio-review.json"
+    },
+    {
+      "slug": "accessibe-review",
+      "name": "accessiBe",
+      "category": "Vertical Industry Software",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "accessiBe is an end-to-end accessibility platform unifying AI automation, developer tools, and expert services to help organizations create inclusive digital experiences at scale.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/accessibe-review.json"
+    },
+    {
+      "slug": "activecampaign-review",
+      "name": "ActiveCampaign",
+      "category": "Customer Service",
+      "status": "published",
+      "score": 7.8,
+      "excerpt": "ActiveCampaign is an autonomous marketing platform that uses AI to help businesses grow. The platform unifies email marketing, CRM, and marketing automation to optimize customer journeys, manage relationships, and deliver personalized experiences across multiple channels like email, SMS, and WhatsApp.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/activecampaign-review.json"
+    },
+    {
+      "slug": "adcreative-review",
+      "name": "AdCreative.ai",
+      "category": "hot",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "AI-driven ad design platform that helps businesses create optimized, high-converting ads for multiple platforms with minimal effort.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/adcreative-review.json"
+    },
+    {
+      "slug": "adp-review",
+      "name": "RUN Powered by ADP",
+      "category": "Payroll",
+      "status": "published",
+      "score": 7.4,
+      "excerpt": "Pay your people in just minutes, with an intuitive platform. Convenient HR and hiring tools also help you grow and manage your team.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/adp-review.json"
+    },
+    {
+      "slug": "adwisely-review",
+      "name": "Adwisely",
+      "category": "Artificial Intelligence",
+      "status": "published",
+      "score": 7.1,
+      "excerpt": "Adwisely automates Meta and Google ad campaigns for Shopify-powered stores, improving ROAS and saving time on daily ad management.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/adwisely-review.json"
+    },
+    {
+      "slug": "afdnp-review",
+      "name": "Functional Diagnostic Nutrition",
+      "category": "Customer Service",
+      "status": "published",
+      "score": 7.7,
+      "excerpt": "Earn $1,000 per sign-up, plus $500 bonuses at 5 and 10 sales. Your pay grows with you! After 25 sales, your commission permanently jumps to $1,250 per sign-up, and again to $1,500 after 50. We reward loyalty and success.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/afdnp-review.json"
+    },
+    {
+      "slug": "aftersellbyrokt-review",
+      "name": "Rokt Aftersell",
+      "category": "Marketing",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Upsell tools for Shopify to unlock additional revenue boost average order value across buying journey.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aftersellbyrokt-review.json"
+    },
+    {
+      "slug": "aftrdrk-review",
+      "name": "AFTRDRK",
+      "category": "IT Management",
+      "status": "published",
+      "score": 6.7,
+      "excerpt": "AFTRDRK's DRK Web Surveillance (DWS) platform gives you real cyber threat intelligence signals that come from the Deep and Dark Web.",
+      "updatedAt": "2026-09-23",
+      "file": "/data/reviews/aftrdrk-review.json"
+    },
+    {
+      "slug": "agencyanalytics-review",
+      "name": "AgencyAnalytics",
+      "category": "Digital Advertising",
+      "status": "published",
+      "score": 7.2,
+      "excerpt": "AgencyAnalytics is a client reporting and analytics platform built for marketing agencies. It centralizes data from leading marketing tools into automated dashboards and reports that help agencies prove ROI, save time, and scale with confidence.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/agencyanalytics-review.json"
+    },
+    {
+      "slug": "aircall-review",
+      "name": "Aircall",
+      "category": "hot",
+      "status": "published",
+      "score": 7.6,
+      "excerpt": "Cloud-based phone and call-center platform that helps teams manage calls, messages and support with smart routing, integrations and real-time analytics to improve customer conversations.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aircall-review.json"
+    },
+    {
+      "slug": "airia-review",
+      "name": "Airia",
+      "category": "Governance, Risk, & Compliance",
+      "status": "published",
+      "score": 7.1,
+      "excerpt": "Airia is a leading Enterprise AI Orchestration Platform, empowering organizations to securely build and manage AI solutions at scale.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/airia-review.json"
+    },
+    {
+      "slug": "airslate-review",
+      "name": "airSlate",
+      "category": "hot",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Document automation platform that streamlines business workflows by integrating forms, e-signatures, and document management features.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/airslate-review.json"
+    },
+    {
+      "slug": "airwallex-review",
+      "name": "Airwallex",
+      "category": "hot",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Partner with one of the fastest growing international fintech companies leading the charge in redefining global banking.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/airwallex-review.json"
+    },
+    {
+      "slug": "aisdrinc-review",
+      "name": "AiSDR, Inc.",
+      "category": "Artificial Intelligence",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "AI sales agent that automates outreach and chats with prospects via email, LinkedIn, and text in your tone.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aisdrinc-review.json"
+    },
+    {
+      "slug": "aisq-review",
+      "name": "AISQ",
+      "category": "Marketing",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "Help agencies cut software costs and scale monthly retainers without hiring. AISQ Meteor gives them 10 elite tools in one unified stack. Built by agency vets. Powered by AI. Backed by 25K+ paying customers worldwide and 13+ years in the market.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aisq-review.json"
+    },
+    {
+      "slug": "alidrop-review",
+      "name": "Alidrop",
+      "category": "E-Commerce",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "👉 Automated order processing 👉 US/EU supplier options for faster shipping 👉 AI tools for product descriptions and optimization 🚀 Start scaling your dropshipping business with ease!",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/alidrop-review.json"
+    },
+    {
+      "slug": "alohi-review",
+      "name": "Alohi",
+      "category": "Referral Partners",
+      "status": "published",
+      "score": 7.7,
+      "excerpt": "Fax.Plus and Sign.Plus make it easy to send faxes and sign documents entirely online. They serve a wide range of users, from individuals to enterprise teams, across industries where compliance and document security matter.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/alohi-review.json"
+    },
+    {
+      "slug": "alvysinc-review",
+      "name": "Alvys Inc.",
+      "category": "Vertical Industry Software",
+      "status": "published",
+      "score": 7.4,
+      "excerpt": "Join the Alvys Partner Program! Earn rewards for referrals, integrate seamlessly with our all-in-one modern TMS, and access exclusive tools and marketplace opportunities. Open to customers, tech companies, and industry influencers.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/alvysinc-review.json"
+    },
+    {
+      "slug": "amplemarket-review",
+      "name": "Amplemarket",
+      "category": "Collaboration & Productivity",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Sales automation platform that uses AI to optimize outreach and engagement, helping businesses close deals faster.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/amplemarket-review.json"
+    },
+    {
+      "slug": "amplitude-review",
+      "name": "Amplitude",
+      "category": "Artificial Intelligence",
+      "status": "published",
+      "score": 7,
+      "excerpt": "Product analytics platform that helps businesses track user behavior, measure engagement, and optimize growth.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/amplitude-review.json"
+    },
+    {
+      "slug": "answeringservicecarellc-review",
+      "name": "Answering Service Care, LLC",
+      "category": "Salesforce integrated",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Provider of live answering services, virtual receptionist, and call center solutions for businesses.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/answeringservicecarellc-review.json"
+    },
+    {
+      "slug": "aplos-review",
+      "name": "Aplos, Raisely & Keela",
+      "category": "ERP",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "Aplos, Raisely, and Keela give nonprofits the tools to manage accounting, fundraising, and donor relationships. Aplos handles fund accounting, Raisely powers online fundraising, and Keela strengthens donor engagement. Together, these three solutions are part of the Velora integrated suite, and help nonprofits raise more, manage better, and grow their impact. Each product can also be sold separately, giving partners flexibility to meet client needs.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aplos-review.json"
+    },
+    {
+      "slug": "apollo-review",
+      "name": "Apollo.io",
+      "category": "hot",
+      "status": "published",
+      "score": 7.5,
+      "excerpt": "Sales intelligence platform that provides data on leads, companies, and contacts, helping teams with prospecting, outreach, and engagement.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/apollo-review.json"
+    },
+    {
+      "slug": "arbor-review",
+      "name": "Arbor",
+      "category": "Sales",
+      "status": "published",
+      "score": 6.7,
+      "excerpt": "Arbor is a free service platform that lowers and protects the price everyday businesses pay for energy completely risk free.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/arbor-review.json"
+    },
+    {
+      "slug": "aspireapp-review",
+      "name": "Aspire",
+      "category": "E-Commerce",
+      "status": "published",
+      "score": 7.1,
+      "excerpt": "All-in-one Finance Platfform for Modern Businesses.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aspireapp-review.json"
+    },
+    {
+      "slug": "assembly-review",
+      "name": "Assembly",
+      "category": "Sales",
+      "status": "published",
+      "score": 7,
+      "excerpt": "All-in-one platform for service businesses to manage clients, payments, files, forms & support.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/assembly-review.json"
+    },
+    {
+      "slug": "atria-review",
+      "name": "Atria",
+      "category": "Content Management",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "Atria is an AI-powered ad engine for agencies/brands, trusted by 10K+ teams. It offers tools for analytics, creation, research, asset management & inspiration—driving 10x revenue growth.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/atria-review.json"
+    },
+    {
+      "slug": "attmarketplace-review",
+      "name": "AT&T",
+      "category": "IoT Management",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "AT&T Business connectivity products, sold through the AT&T Marketplace and administered by AppDirect, AT&T's digital commerce partner. The marketplace covers three products: AT&T Business Wireless, AT&T Business Fiber, and AT&T Internet Air.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/attmarketplace-review.json"
+    },
+    {
+      "slug": "attospectalabsinc-review",
+      "name": "Atto",
+      "category": "Vertical Industry Software",
+      "status": "published",
+      "score": 7,
+      "excerpt": "AI‑powered multi‑currency accounting platform.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/attospectalabsinc-review.json"
+    },
+    {
+      "slug": "aura-review",
+      "name": "Aura",
+      "category": "Security",
+      "status": "published",
+      "score": 6.9,
+      "excerpt": "Digital safety platform offering tools to protect users from identity theft, data breaches, and online scams.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/aura-review.json"
+    },
+    {
+      "slug": "barcodestalk-review",
+      "name": "Bar Codes Talk",
+      "category": "hot",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "Barcode generator and inventory management software that helps businesses track products, shipments, and stock levels using barcode scanning.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/barcodestalk-review.json"
+    },
+    {
+      "slug": "beautifulai-review",
+      "name": "Beautiful.ai",
+      "category": "Vertical Industry Software",
+      "status": "published",
+      "score": 7.3,
+      "excerpt": "Beautiful.ai is the AI presentation maker designed for professionals who need to move fast and look polished. Whether you're building a client pitch, investor deck, or internal strategy presentation, Beautiful.ai combines the speed of AI with the control.",
+      "updatedAt": "2026-09-29",
+      "file": "/data/reviews/beautifulai-review.json"
+    }
+  ]
+}
