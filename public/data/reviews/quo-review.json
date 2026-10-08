@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "8707",
+  "slug": "quo-review",
+  "status": "published",
+  "name": "Quo (formerly OpenPhone)",
+  "entityType": "SoftwareApplication",
+  "category": "hot",
+  "tagline": "A buyer-focused look at Quo (formerly OpenPhone) for teams comparing hot options",
+  "summary": "VoIP and business phone service designed to help teams manage calls, texts, and voicemails from a central mobile or desktop app.",
+  "website": "https://www.quo.com/",
+  "brand": {
+    "name": "Quo (formerly OpenPhone)"
+  },
+  "partner": {
+    "id": "8707",
+    "slug": "quo",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://cdn.prod.website-files.com/6899ec2c2b29c1edf8c20f15/69c18816f34c11790be8771e_quo-downloads.png",
+        "alt": "Quo (formerly OpenPhone) product visual 2",
+        "caption": "Download Quo (formerly OpenPhone) for iOS, Android, Mac, Windows & More — source: www.quo.com"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6899ec2c2b29c1edf8c20f15/6a32e29ef88ff85c2cab9028_Home%20(3).webp",
+        "alt": "Quo (formerly OpenPhone) product visual 3",
+        "caption": "Quo - Shared Phone System for Small Businesses (formerly OpenPhone) — source: www.quo.com"
+      },
+      {
+        "src": "https://mintcdn.com/resource-center/w8QSoSVe6SExHGxj/images/getting-started/introduction-to-openphone_b7d16e69.png?fit=max&auto=format&n=w8QSoSVe6SExHGxj&q=85&s=bb0cb0a97e5448e1d10cf7302e7dbe4f",
+        "alt": "Quo (formerly OpenPhone) product visual 4",
+        "caption": "Introduction to Quo - Quo Resource Center — source: support.quo.com"
+      }
+    ],
+    "videoTitle": "Quo (formerly OpenPhone) product overview",
+    "cover": {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgxEv5g7m70kx5t7FbAD6hf7ATYXwfTkcYv9hr72TlY1-VXn44tIFjdoT7v74RJqFGNJltb9tacVePpCF0dWVPOIPKP_iQwFKUDONdDBBjziRQ4F5UKgrcc1xAGIfSpGqikm7asg?key=K3w9a1EGrFAcxy6acHo28Q",
+      "alt": "Quo (formerly OpenPhone) product interface or official product visual",
+      "caption": "Quo (formerly OpenPhone) Update - June 2025 | Quo (formerly OpenPhone) — source: www.quo.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "VoIP and business phone service designed to help teams manage calls, texts, and voicemails from a central mobile or desktop app.",
+    "The source record categorizes Quo (formerly OpenPhone) under hot.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Quo (formerly OpenPhone) product information on the official website.",
+    "url": "https://www.quo.com/"
+  },
+  "keywords": {
+    "primary": "Quo (formerly OpenPhone) review",
+    "secondary": [
+      "hot",
+      "Quo (formerly OpenPhone) software",
+      "Quo (formerly OpenPhone) alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.7,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.9,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Quo (formerly OpenPhone) presents a reasonably documented option for teams exploring hot. Its 7.7/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "VoIP and business phone service designed to help teams manage calls, texts, and voicemails from a central mobile or desktop app.",
+    "The record supplies 15 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of hot products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "hot"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Quo (formerly OpenPhone) at a glance",
+      "body": "VoIP and business phone service designed to help teams manage calls, texts, and voicemails from a central mobile or desktop app."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under hot, Quo (formerly OpenPhone) is most relevant during early market discovery. The available record includes 15 category signals and 20 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Quo (formerly OpenPhone) for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Quo (formerly OpenPhone)?",
+      "answer": "VoIP and business phone service designed to help teams manage calls, texts, and voicemails from a central mobile or desktop app."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Quo (formerly OpenPhone)?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Quo (formerly OpenPhone) score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Quo (formerly OpenPhone)?",
+      "answer": "Teams comparing hot options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgxEv5g7m70kx5t7FbAD6hf7ATYXwfTkcYv9hr72TlY1-VXn44tIFjdoT7v74RJqFGNJltb9tacVePpCF0dWVPOIPKP_iQwFKUDONdDBBjziRQ4F5UKgrcc1xAGIfSpGqikm7asg?key=K3w9a1EGrFAcxy6acHo28Q",
+      "alt": "Quo (formerly OpenPhone) product interface or official product visual",
+      "caption": "Quo (formerly OpenPhone) Update - June 2025 | Quo (formerly OpenPhone) — source: www.quo.com"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6899ec2c2b29c1edf8c20f15/69c18816f34c11790be8771e_quo-downloads.png",
+      "alt": "Quo (formerly OpenPhone) product visual 2",
+      "caption": "Download Quo (formerly OpenPhone) for iOS, Android, Mac, Windows & More — source: www.quo.com"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/6899ec2c2b29c1edf8c20f15/6a32e29ef88ff85c2cab9028_Home%20(3).webp",
+      "alt": "Quo (formerly OpenPhone) product visual 3",
+      "caption": "Quo - Shared Phone System for Small Businesses (formerly OpenPhone) — source: www.quo.com"
+    },
+    {
+      "src": "https://mintcdn.com/resource-center/w8QSoSVe6SExHGxj/images/getting-started/introduction-to-openphone_b7d16e69.png?fit=max&auto=format&n=w8QSoSVe6SExHGxj&q=85&s=bb0cb0a97e5448e1d10cf7302e7dbe4f",
+      "alt": "Quo (formerly OpenPhone) product visual 4",
+      "caption": "Introduction to Quo - Quo Resource Center — source: support.quo.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Quo (formerly OpenPhone) official website",
+      "url": "https://www.quo.com/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

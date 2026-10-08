@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "9126",
+  "slug": "storylane-review",
+  "status": "published",
+  "name": "Storylane",
+  "entityType": "SoftwareApplication",
+  "category": "B2B Marketplaces",
+  "tagline": "A buyer-focused look at Storylane for teams comparing b2b marketplaces options",
+  "summary": "Content creation tool that enables businesses to build and share interactive, immersive product demos.",
+  "website": "https://www.storylane.io",
+  "brand": {
+    "name": "Storylane"
+  },
+  "partner": {
+    "id": "9126",
+    "slug": "storylane",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://cdn.prod.website-files.com/60aacdcdcc32cf61b05512fb/6a980445e695237d28851770_Website%20Conversions%20(13).webp",
+        "alt": "Storylane product visual 2",
+        "caption": "Demo Suite - The #1 Rated Demo Automation Software | Storylane — source: www.storylane.io"
+      },
+      {
+        "src": "https://storylane-prod-uploads.s3.us-east-2.amazonaws.com/company/company_de5d4df9-bf96-470e-aa42-e5d8293e2dbb/project/project_d3883056-33d2-4876-b5ed-58653bb9a1ec/page/PLJ0qiGV4AWvBmNtqB33W.png",
+        "alt": "Storylane product visual 3",
+        "caption": "Interactive Demo Software, Built with AI | Storylane — source: www.storylane.io"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/60aacdcdcc32cf61b05512fb/693952e562c1ba320d217c7e_Playlist%20(2).webp",
+        "alt": "Storylane product visual 4",
+        "caption": "Digital Sales Room Software | Storylane Hubs — source: www.storylane.io"
+      }
+    ],
+    "videoTitle": "Storylane product overview",
+    "cover": {
+      "src": "https://cdn.prod.website-files.com/60aacdcdcc32cf61b05512fb/69394c34bd49f887159149e9_OG%20(4).png",
+      "alt": "Storylane product interface or official product visual",
+      "caption": "Storylane Product Demo Software Plans: Startups, SMB & Enterprises — source: www.storylane.io"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Content creation tool that enables businesses to build and share interactive, immersive product demos.",
+    "The source record categorizes Storylane under B2B Marketplaces.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Storylane product information on the official website.",
+    "url": "https://www.storylane.io"
+  },
+  "keywords": {
+    "primary": "Storylane review",
+    "secondary": [
+      "B2B Marketplaces",
+      "Storylane software",
+      "Storylane alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.1,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.7,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 5.3,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Storylane presents a reasonably documented option for teams exploring b2b marketplaces. Its 7.1/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Content creation tool that enables businesses to build and share interactive, immersive product demos.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of b2b marketplaces products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "B2B Marketplaces"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Storylane at a glance",
+      "body": "Content creation tool that enables businesses to build and share interactive, immersive product demos."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under B2B Marketplaces, Storylane is most relevant during early market discovery. The available record includes 9 category signals and 1 commercial record, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Storylane for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is buying detail. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Storylane?",
+      "answer": "Content creation tool that enables businesses to build and share interactive, immersive product demos."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Storylane?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Storylane score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Storylane?",
+      "answer": "Teams comparing b2b marketplaces options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/60aacdcdcc32cf61b05512fb/69394c34bd49f887159149e9_OG%20(4).png",
+      "alt": "Storylane product interface or official product visual",
+      "caption": "Storylane Product Demo Software Plans: Startups, SMB & Enterprises — source: www.storylane.io"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/60aacdcdcc32cf61b05512fb/6a980445e695237d28851770_Website%20Conversions%20(13).webp",
+      "alt": "Storylane product visual 2",
+      "caption": "Demo Suite - The #1 Rated Demo Automation Software | Storylane — source: www.storylane.io"
+    },
+    {
+      "src": "https://storylane-prod-uploads.s3.us-east-2.amazonaws.com/company/company_de5d4df9-bf96-470e-aa42-e5d8293e2dbb/project/project_d3883056-33d2-4876-b5ed-58653bb9a1ec/page/PLJ0qiGV4AWvBmNtqB33W.png",
+      "alt": "Storylane product visual 3",
+      "caption": "Interactive Demo Software, Built with AI | Storylane — source: www.storylane.io"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/60aacdcdcc32cf61b05512fb/693952e562c1ba320d217c7e_Playlist%20(2).webp",
+      "alt": "Storylane product visual 4",
+      "caption": "Digital Sales Room Software | Storylane Hubs — source: www.storylane.io"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Storylane official website",
+      "url": "https://www.storylane.io",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

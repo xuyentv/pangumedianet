@@ -6,7 +6,7 @@
   "name": "Airia",
   "entityType": "SoftwareApplication",
   "category": "Governance, Risk, & Compliance",
-  "tagline": "Airia assessment for governance, risk, & compliance buyers",
+  "tagline": "A buyer-focused look at Airia for teams comparing governance, risk, & compliance options",
   "summary": "Airia is a leading Enterprise AI Orchestration Platform, empowering organizations to securely build and manage AI solutions at scale.",
   "website": "https://airia.com",
   "brand": {
@@ -19,14 +19,35 @@
   },
   "publishedAt": "2026-09-29",
   "updatedAt": "2026-09-29",
-  "evidenceLevel": "Vendor and structured dataset information",
+  "evidenceLevel": "Desk research — structured record and official product material",
   "methodology": {
-    "basis": "This assessment is generated deterministically from the supplied partner record, including its descriptions, categories, website availability, offer count, and timestamps.",
-    "limitations": "Pangu Medianet has not independently verified performance, pricing, integrations, security, customer sentiment, or hands-on usability for this generated assessment."
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
   },
   "media": {
-    "gallery": [],
-    "videoTitle": "Airia product overview"
+    "gallery": [
+      {
+        "src": "https://airia.com/images/wp-content/uploads/2026/04/airia-governance-dash-dashboard.png",
+        "alt": "Airia product visual 2",
+        "caption": "Governance Dashboard | Airia — source: airia.com"
+      },
+      {
+        "src": "https://airia.com/wp-content/uploads/2026/05/Airia-Microsoft-MRM-Announcement-01-1.png",
+        "alt": "Airia product visual 3",
+        "caption": "Airia Launches Comprehensive Model Risk Management Solution Integrated with Microsoft Foundry | Airia — source: airia.com"
+      },
+      {
+        "src": "https://airia.com/images/wp-content/uploads/2026/04/airia-governance-dash-audit-reporting.png",
+        "alt": "Airia product visual 4",
+        "caption": "Governance Dashboard | Airia — source: airia.com"
+      }
+    ],
+    "videoTitle": "Airia product overview",
+    "cover": {
+      "src": "https://airia.com/images/wp-content/uploads/2026/04/airia-governance-dash-agents.png",
+      "alt": "Airia product interface or official product visual",
+      "caption": "Governance Dashboard | Airia — source: airia.com"
+    }
   },
   "author": {
     "name": "Pangu Medianet Editorial",
@@ -50,48 +71,48 @@
     ]
   },
   "rating": {
-    "value": 7.1,
+    "value": 7.3,
     "scale": 10,
-    "label": "Solid documented profile",
+    "label": "Promising research profile",
     "criteria": [
       {
-        "key": "information",
-        "label": "Information clarity",
-        "score": 6.1,
-        "weight": 30,
-        "summary": "Measures how clearly the available source record explains the product."
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.9,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
       },
       {
-        "key": "positioning",
-        "label": "Use-case positioning",
-        "score": 8,
-        "weight": 25,
-        "summary": "Reflects the specificity of the categories and use cases in the supplied record."
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.4,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
       },
       {
-        "key": "access",
-        "label": "Product access",
-        "score": 8,
-        "weight": 20,
-        "summary": "Reflects whether an official product destination is available for verification."
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
       },
       {
-        "key": "commercial",
-        "label": "Commercial detail",
+        "key": "buyingDetail",
+        "label": "Buying detail",
         "score": 6.4,
-        "weight": 15,
-        "summary": "Reflects the amount of structured offer information available in the source data."
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
       },
       {
-        "key": "freshness",
-        "label": "Record freshness",
-        "score": 7.5,
-        "weight": 10,
-        "summary": "Reflects whether the source record provides an update timestamp."
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
       }
     ]
   },
-  "verdict": "Airia is a leading Enterprise AI Orchestration Platform, empowering organizations to securely build and manage AI solutions at scale. The 7.1/10 editorial score reflects the completeness and clarity of the supplied record—not independent product testing. Buyers should confirm current capabilities, terms, and fit directly with the vendor.",
+  "verdict": "Airia presents a reasonably documented option for teams exploring governance, risk, & compliance. Its 7.3/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
   "pros": [
     "Airia is a leading Enterprise AI Orchestration Platform, empowering organizations to securely build and manage AI solutions at scale.",
     "The record supplies 7 category or use-case tags.",
@@ -103,39 +124,45 @@
     "Integrations, security controls, and support quality are not independently verified here."
   ],
   "bestFor": [
-    "Teams researching governance, risk, & compliance options",
-    "Buyers who will validate requirements directly with the vendor"
+    "Teams building an initial shortlist of governance, risk, & compliance products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
   ],
   "notIdealFor": [
-    "Buyers seeking independently benchmarked performance data",
-    "Teams requiring verified pricing or compliance conclusions from this page alone"
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
   ],
   "keyFacts": [
     {
-      "label": "Category",
+      "label": "Market category",
       "value": "Governance, Risk, & Compliance"
     },
     {
-      "label": "Evidence basis",
-      "value": "Structured partner record"
+      "label": "Research method",
+      "value": "Structured desk research"
     },
     {
-      "label": "Independent hands-on test",
-      "value": "Not performed"
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
     }
   ],
   "sections": [
     {
-      "heading": "What is Airia?",
+      "heading": "Airia at a glance",
       "body": "Airia is a leading Enterprise AI Orchestration Platform, empowering organizations to securely build and manage AI solutions at scale."
     },
     {
-      "heading": "Available product evidence",
-      "body": "This review uses the supplied record's product description, 7 tags, 3 structured offers, website field, and update metadata. Vendor-originated information is treated as product positioning rather than independent proof."
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Governance, Risk, & Compliance, Airia is most relevant during early market discovery. The available record includes 7 category signals and 3 commercial records, giving buyers a starting point—not a substitute for requirements validation."
     },
     {
-      "heading": "Evaluation guidance",
-      "body": "Shortlist Airia only after mapping your requirements to a current demonstration, written pricing, implementation scope, data handling terms, support commitments, and references relevant to your organization."
+      "heading": "Questions to ask before buying",
+      "body": "Ask Airia for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
     }
   ],
   "faq": [
@@ -149,10 +176,35 @@
     },
     {
       "question": "How is the Airia score calculated?",
-      "answer": "The score deterministically weights information clarity, use-case positioning, product access, commercial detail, and record freshness. It is not a performance benchmark."
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Airia?",
+      "answer": "Teams comparing governance, risk, & compliance options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
     }
   ],
-  "images": [],
+  "images": [
+    {
+      "src": "https://airia.com/images/wp-content/uploads/2026/04/airia-governance-dash-agents.png",
+      "alt": "Airia product interface or official product visual",
+      "caption": "Governance Dashboard | Airia — source: airia.com"
+    },
+    {
+      "src": "https://airia.com/images/wp-content/uploads/2026/04/airia-governance-dash-dashboard.png",
+      "alt": "Airia product visual 2",
+      "caption": "Governance Dashboard | Airia — source: airia.com"
+    },
+    {
+      "src": "https://airia.com/wp-content/uploads/2026/05/Airia-Microsoft-MRM-Announcement-01-1.png",
+      "alt": "Airia product visual 3",
+      "caption": "Airia Launches Comprehensive Model Risk Management Solution Integrated with Microsoft Foundry | Airia — source: airia.com"
+    },
+    {
+      "src": "https://airia.com/images/wp-content/uploads/2026/04/airia-governance-dash-audit-reporting.png",
+      "alt": "Airia product visual 4",
+      "caption": "Governance Dashboard | Airia — source: airia.com"
+    }
+  ],
   "sources": [
     {
       "title": "Airia official website",
@@ -167,7 +219,7 @@
   ],
   "generation": {
     "generator": "generate-partner-reviews.mjs",
-    "generatedAt": "2026-10-08T09:41:07.181Z",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
     "sourceRecordUpdatedAt": "2026-09-29"
   }
 }

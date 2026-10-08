@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10527",
+  "slug": "springbolt-review",
+  "status": "published",
+  "name": "Springbolt ID",
+  "entityType": "SoftwareApplication",
+  "category": "B2B Marketplaces",
+  "tagline": "A buyer-focused look at Springbolt ID for teams comparing b2b marketplaces options",
+  "summary": "Turn website visitors into named, verified contacts with email, company, title, and 37+ data points. Tracking their every move in your website.",
+  "website": "https://www.lead.springbolt.app/",
+  "brand": {
+    "name": "Springbolt ID"
+  },
+  "partner": {
+    "id": "10527",
+    "slug": "springbolt",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://cdn.prod.website-files.com/697aed1f8895764183f9eaac/69a70af5fbb080506c97b1aa_SBG_Banner_White_Slides_Presentation_1920x1080.png",
+        "alt": "Springbolt ID product visual 2",
+        "caption": "B2B Prospecting & Cold Email Platform | Data + Deliverability + Activation | Springbolt — source: data.springboltgroup.com"
+      },
+      {
+        "src": "https://cdn.shopify.com/app-store/listing_images/dc53ed438ad5917d1fb7e64071819985/desktop_screenshot/CPGz8YWnt40DEAE=.png?height=900&width=1600",
+        "alt": "Springbolt ID product visual 3",
+        "caption": "Springbot - Affordable, easy marketing for ecommerce. | Shopify App Store — source: apps.shopify.com"
+      },
+      {
+        "src": "https://cdn.shopify.com/app-store/listing_images/dc53ed438ad5917d1fb7e64071819985/desktop_screenshot/CKzthYant40DEAE=.png?height=720&width=1280",
+        "alt": "Springbolt ID product visual 4",
+        "caption": "Springbot - Affordable, easy marketing for ecommerce. | Shopify App Store — source: apps.shopify.com"
+      }
+    ],
+    "videoTitle": "Springbolt ID product overview",
+    "cover": {
+      "src": "https://trustmytool.com/stories/springbolt-id/poster.png",
+      "alt": "Springbolt ID product interface or official product visual",
+      "caption": "Springbolt ID — Web Story | Trust My Tool — source: trustmytool.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Turn website visitors into named, verified contacts with email, company, title, and 37+ data points. Tracking their every move in your website.",
+    "The source record categorizes Springbolt ID under B2B Marketplaces.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Springbolt ID product information on the official website.",
+    "url": "https://www.lead.springbolt.app/"
+  },
+  "keywords": {
+    "primary": "Springbolt ID review",
+    "secondary": [
+      "B2B Marketplaces",
+      "Springbolt ID software",
+      "Springbolt ID alternatives"
+    ]
+  },
+  "rating": {
+    "value": 6.7,
+    "scale": 10,
+    "label": "Worth further investigation",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.9,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 6.9,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 5.3,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Springbolt ID presents a developing option for teams exploring b2b marketplaces. Its 6.7/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Turn website visitors into named, verified contacts with email, company, title, and 37+ data points. Tracking their every move in your website.",
+    "The record supplies 4 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of b2b marketplaces products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "B2B Marketplaces"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Springbolt ID at a glance",
+      "body": "Turn website visitors into named, verified contacts with email, company, title, and 37+ data points. Tracking their every move in your website."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under B2B Marketplaces, Springbolt ID is most relevant during early market discovery. The available record includes 4 category signals and 1 commercial record, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Springbolt ID for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is buyer access; the area requiring the most buyer diligence is buying detail. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Springbolt ID?",
+      "answer": "Turn website visitors into named, verified contacts with email, company, title, and 37+ data points. Tracking their every move in your website."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Springbolt ID?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Springbolt ID score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Springbolt ID?",
+      "answer": "Teams comparing b2b marketplaces options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://trustmytool.com/stories/springbolt-id/poster.png",
+      "alt": "Springbolt ID product interface or official product visual",
+      "caption": "Springbolt ID — Web Story | Trust My Tool — source: trustmytool.com"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/697aed1f8895764183f9eaac/69a70af5fbb080506c97b1aa_SBG_Banner_White_Slides_Presentation_1920x1080.png",
+      "alt": "Springbolt ID product visual 2",
+      "caption": "B2B Prospecting & Cold Email Platform | Data + Deliverability + Activation | Springbolt — source: data.springboltgroup.com"
+    },
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/dc53ed438ad5917d1fb7e64071819985/desktop_screenshot/CPGz8YWnt40DEAE=.png?height=900&width=1600",
+      "alt": "Springbolt ID product visual 3",
+      "caption": "Springbot - Affordable, easy marketing for ecommerce. | Shopify App Store — source: apps.shopify.com"
+    },
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/dc53ed438ad5917d1fb7e64071819985/desktop_screenshot/CKzthYant40DEAE=.png?height=720&width=1280",
+      "alt": "Springbolt ID product visual 4",
+      "caption": "Springbot - Affordable, easy marketing for ecommerce. | Shopify App Store — source: apps.shopify.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Springbolt ID official website",
+      "url": "https://www.lead.springbolt.app/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

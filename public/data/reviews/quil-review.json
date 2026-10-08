@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "9780",
+  "slug": "quil-review",
+  "status": "published",
+  "name": "CoRecruit (formerly Quil)",
+  "entityType": "SoftwareApplication",
+  "category": "Collaboration & Productivity",
+  "tagline": "A buyer-focused look at CoRecruit (formerly Quil) for teams comparing collaboration & productivity options",
+  "summary": "CoRecruit is the #1 AI assistant for recruitment agencies. Automate busywork and save up to 8+ hours a week. CoRecruit captures every conversation across phone, VoIP, WhatsApp, Zoom, and more, then instantly updates your ATS/CRM.",
+  "website": "https://corecruit.com",
+  "brand": {
+    "name": "CoRecruit (formerly Quil)"
+  },
+  "partner": {
+    "id": "9780",
+    "slug": "quil",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://i.ytimg.com/vi/WndYgInOxVY/mqdefault.jpg",
+        "alt": "CoRecruit (formerly Quil) product visual 2",
+        "caption": "Quil Rebrands as CoRecruit, Focusing on Human-Centric Recruiting | CoRecruit (formerly Quil) posted on the topic | LinkedIn — source: www.linkedin.com"
+      },
+      {
+        "src": "https://lh3.googleusercontent.com/asGjzIlKycMu1fXKbAgfnHh2dMPI65zd7soxnvUYeIuzaZtncsej2Se2aBFpfoO5lQ-WBB4IEU-D1bXQ_inchUMArA=s1280-w1280-h800",
+        "alt": "CoRecruit (formerly Quil) product visual 3",
+        "caption": "CoRecruit - Chrome Web Store — source: chromewebstore.google.com"
+      },
+      {
+        "src": "https://media.licdn.com/dms/image/v2/D5622AQHL2f4syBefeA/feedshare-shrink_800/B56Zv4Ec1fI4Ag-/0/1769393475264?e=2147483647&v=beta&t=P_KFmZEXV6zRFwlFHOIkftObm4eP8IPHga3_bQnh0E0",
+        "alt": "CoRecruit (formerly Quil) product visual 4",
+        "caption": "CoRecruit Launches 4 New Features: AI Note-Taking, VOIP, and More | Ryan Frampton posted on the topic | LinkedIn — source: www.linkedin.com"
+      }
+    ],
+    "videoTitle": "CoRecruit (formerly Quil) product overview",
+    "cover": {
+      "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEd5ptACziOYw/thumbnail-with-play-button-overlay-high/B4DZv7kB_jI8DQ-/0/1769452086536?e=2147483647&v=beta&t=Pl4KOJWgcZ4dl2RXAaNF6mY6LdWXKmqMZTpEVtfKlXA",
+      "alt": "CoRecruit (formerly Quil) product interface or official product visual",
+      "caption": "Quil Rebrands as CoRecruit, Focusing on Human-Centric Recruiting | CoRecruit (formerly Quil) posted on the topic | LinkedIn — source: www.linkedin.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "CoRecruit is the #1 AI assistant for recruitment agencies. Automate busywork and save up to 8+ hours a week. CoRecruit captures every conversation across phone, VoIP, WhatsApp, Zoom, and more, then instantly updates your ATS/CRM.",
+    "The source record categorizes CoRecruit (formerly Quil) under Collaboration & Productivity.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current CoRecruit (formerly Quil) product information on the official website.",
+    "url": "https://corecruit.com"
+  },
+  "keywords": {
+    "primary": "CoRecruit (formerly Quil) review",
+    "secondary": [
+      "Collaboration & Productivity",
+      "CoRecruit (formerly Quil) software",
+      "CoRecruit (formerly Quil) alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 6.4,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 6.9,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 7.9,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "CoRecruit (formerly Quil) presents a reasonably documented option for teams exploring collaboration & productivity. Its 7.3/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "CoRecruit is the #1 AI assistant for recruitment agencies. Automate busywork and save up to 8+ hours a week. CoRecruit captures every conversation across phone, VoIP, WhatsApp, Zoom, and more, then instantly updates your ATS/CRM.",
+    "The record supplies 4 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of collaboration & productivity products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Collaboration & Productivity"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "CoRecruit (formerly Quil) at a glance",
+      "body": "CoRecruit is the #1 AI assistant for recruitment agencies. Automate busywork and save up to 8+ hours a week. CoRecruit captures every conversation across phone, VoIP, WhatsApp, Zoom, and more, then instantly updates your ATS/CRM."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Collaboration & Productivity, CoRecruit (formerly Quil) is most relevant during early market discovery. The available record includes 4 category signals and 6 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask CoRecruit (formerly Quil) for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is buyer access; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is CoRecruit (formerly Quil)?",
+      "answer": "CoRecruit is the #1 AI assistant for recruitment agencies. Automate busywork and save up to 8+ hours a week. CoRecruit captures every conversation across phone, VoIP, WhatsApp, Zoom, and more, then instantly updates your ATS/CRM."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test CoRecruit (formerly Quil)?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the CoRecruit (formerly Quil) score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider CoRecruit (formerly Quil)?",
+      "answer": "Teams comparing collaboration & productivity options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://dms.licdn.com/playlist/vid/v2/D4D05AQEd5ptACziOYw/thumbnail-with-play-button-overlay-high/B4DZv7kB_jI8DQ-/0/1769452086536?e=2147483647&v=beta&t=Pl4KOJWgcZ4dl2RXAaNF6mY6LdWXKmqMZTpEVtfKlXA",
+      "alt": "CoRecruit (formerly Quil) product interface or official product visual",
+      "caption": "Quil Rebrands as CoRecruit, Focusing on Human-Centric Recruiting | CoRecruit (formerly Quil) posted on the topic | LinkedIn — source: www.linkedin.com"
+    },
+    {
+      "src": "https://i.ytimg.com/vi/WndYgInOxVY/mqdefault.jpg",
+      "alt": "CoRecruit (formerly Quil) product visual 2",
+      "caption": "Quil Rebrands as CoRecruit, Focusing on Human-Centric Recruiting | CoRecruit (formerly Quil) posted on the topic | LinkedIn — source: www.linkedin.com"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/asGjzIlKycMu1fXKbAgfnHh2dMPI65zd7soxnvUYeIuzaZtncsej2Se2aBFpfoO5lQ-WBB4IEU-D1bXQ_inchUMArA=s1280-w1280-h800",
+      "alt": "CoRecruit (formerly Quil) product visual 3",
+      "caption": "CoRecruit - Chrome Web Store — source: chromewebstore.google.com"
+    },
+    {
+      "src": "https://media.licdn.com/dms/image/v2/D5622AQHL2f4syBefeA/feedshare-shrink_800/B56Zv4Ec1fI4Ag-/0/1769393475264?e=2147483647&v=beta&t=P_KFmZEXV6zRFwlFHOIkftObm4eP8IPHga3_bQnh0E0",
+      "alt": "CoRecruit (formerly Quil) product visual 4",
+      "caption": "CoRecruit Launches 4 New Features: AI Note-Taking, VOIP, and More | Ryan Frampton posted on the topic | LinkedIn — source: www.linkedin.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CoRecruit (formerly Quil) official website",
+      "url": "https://corecruit.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

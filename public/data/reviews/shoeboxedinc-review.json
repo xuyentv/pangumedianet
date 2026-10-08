@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "8795",
+  "slug": "shoeboxedinc-review",
+  "status": "published",
+  "name": "Shoeboxed",
+  "entityType": "SoftwareApplication",
+  "category": "Collaboration & Productivity",
+  "tagline": "A buyer-focused look at Shoeboxed for teams comparing collaboration & productivity options",
+  "summary": "Receipt scanning and expense tracking tool that helps businesses organize and manage receipts and financial documents.",
+  "website": "https://www.shoeboxed.com",
+  "brand": {
+    "name": "Shoeboxed"
+  },
+  "partner": {
+    "id": "8795",
+    "slug": "shoeboxedinc",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://www.shoeboxed.com/assets/blog/receipt-organization-management/shoeboxed-dashboard-6a4f7338.webp",
+        "alt": "Shoeboxed product visual 2",
+        "caption": "The Total Receipt Organization Guide for 2024 - Shoeboxed — source: www.shoeboxed.com"
+      },
+      {
+        "src": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/709234f4-948f-464e-b6d5-a69dbf226fe2.png",
+        "alt": "Shoeboxed product visual 3",
+        "caption": "Shoeboxed Software Reviews, Demo & Pricing - 2026 — source: www.softwareadvice.com"
+      },
+      {
+        "src": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5d3979ed-e26c-4139-9ec1-292c698720b5.png?auto=format%2Ccompress&fit=max&w=3840&q=60&ch=Width%2CDPR",
+        "alt": "Shoeboxed product visual 4",
+        "caption": "Shoeboxed Software Pricing, Alternatives & More 2026 | Capterra — source: www.capterra.com"
+      }
+    ],
+    "videoTitle": "Shoeboxed product overview",
+    "cover": {
+      "src": "https://www.shoeboxed.com/assets/home/sbx-hero-1b329857.webp",
+      "alt": "Shoeboxed product interface or official product visual",
+      "caption": "1 Receipt Scanner App & Free Mileage Tracker | Shoeboxed — source: www.shoeboxed.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Receipt scanning and expense tracking tool that helps businesses organize and manage receipts and financial documents.",
+    "The source record categorizes Shoeboxed under Collaboration & Productivity.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Shoeboxed product information on the official website.",
+    "url": "https://www.shoeboxed.com"
+  },
+  "keywords": {
+    "primary": "Shoeboxed review",
+    "secondary": [
+      "Collaboration & Productivity",
+      "Shoeboxed software",
+      "Shoeboxed alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.8,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 6.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Shoeboxed presents a reasonably documented option for teams exploring collaboration & productivity. Its 7.3/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Receipt scanning and expense tracking tool that helps businesses organize and manage receipts and financial documents.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of collaboration & productivity products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Collaboration & Productivity"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Shoeboxed at a glance",
+      "body": "Receipt scanning and expense tracking tool that helps businesses organize and manage receipts and financial documents."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Collaboration & Productivity, Shoeboxed is most relevant during early market discovery. The available record includes 9 category signals and 3 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Shoeboxed for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Shoeboxed?",
+      "answer": "Receipt scanning and expense tracking tool that helps businesses organize and manage receipts and financial documents."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Shoeboxed?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Shoeboxed score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Shoeboxed?",
+      "answer": "Teams comparing collaboration & productivity options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.shoeboxed.com/assets/home/sbx-hero-1b329857.webp",
+      "alt": "Shoeboxed product interface or official product visual",
+      "caption": "1 Receipt Scanner App & Free Mileage Tracker | Shoeboxed — source: www.shoeboxed.com"
+    },
+    {
+      "src": "https://www.shoeboxed.com/assets/blog/receipt-organization-management/shoeboxed-dashboard-6a4f7338.webp",
+      "alt": "Shoeboxed product visual 2",
+      "caption": "The Total Receipt Organization Guide for 2024 - Shoeboxed — source: www.shoeboxed.com"
+    },
+    {
+      "src": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/709234f4-948f-464e-b6d5-a69dbf226fe2.png",
+      "alt": "Shoeboxed product visual 3",
+      "caption": "Shoeboxed Software Reviews, Demo & Pricing - 2026 — source: www.softwareadvice.com"
+    },
+    {
+      "src": "https://gdm-catalog-fmapi-prod.imgix.net/ProductScreenshot/5d3979ed-e26c-4139-9ec1-292c698720b5.png?auto=format%2Ccompress&fit=max&w=3840&q=60&ch=Width%2CDPR",
+      "alt": "Shoeboxed product visual 4",
+      "caption": "Shoeboxed Software Pricing, Alternatives & More 2026 | Capterra — source: www.capterra.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Shoeboxed official website",
+      "url": "https://www.shoeboxed.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "9826",
+  "slug": "lucensoftware-review",
+  "status": "published",
+  "name": "Office Timeline",
+  "entityType": "SoftwareApplication",
+  "category": "Office Software",
+  "tagline": "A buyer-focused look at Office Timeline for teams comparing office software options",
+  "summary": "PowerPoint add-in for creating project timelines, Gantt charts, roadmaps for professional visuals.",
+  "website": "https://officetimeline.com",
+  "brand": {
+    "name": "Office Timeline"
+  },
+  "partner": {
+    "id": "9826",
+    "slug": "lucensoftware",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://work-management.org/wp-content/uploads/2025/06/Office-timeline-home-page-1024x439.webp",
+        "alt": "Office Timeline product visual 2",
+        "caption": "Office Timeline Review 2026: Everything You Need to Know — source: work-management.org"
+      },
+      {
+        "src": "https://software-finder-prod.blr1.digitaloceanspaces.com/image/1780676935829-6c4a402b4dc098586526dab0705d013f5009236c.png",
+        "alt": "Office Timeline product visual 3",
+        "caption": "Office timeline Reviews, Demo & Pricing | Software Finder - 2026 — source: softwarefinder.com"
+      },
+      {
+        "src": "https://static.crozdesk.com/web_app_library/screenshots/images/000/095/910/original/office-timeline-screenshot-4.png?1706167788",
+        "alt": "Office Timeline product visual 4",
+        "caption": "Office Timeline | Software Reviews & Alternatives — source: crozdesk.com"
+      }
+    ],
+    "videoTitle": "Office Timeline product overview",
+    "cover": {
+      "src": "https://thedigitalprojectmanager.com/wp-content/cache/thedigitalprojectmanager.com/static/static.crozdesk.com/web-app-library-pub-reviews-screenshots-000-007-532-original-Office-Timeline.png",
+      "alt": "Office Timeline product interface or official product visual",
+      "caption": "Office Timeline Review: Pros, Cons, Features & Pricing — source: thedigitalprojectmanager.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "PowerPoint add-in for creating project timelines, Gantt charts, roadmaps for professional visuals.",
+    "The source record categorizes Office Timeline under Office Software.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Office Timeline product information on the official website.",
+    "url": "https://officetimeline.com"
+  },
+  "keywords": {
+    "primary": "Office Timeline review",
+    "secondary": [
+      "Office Software",
+      "Office Timeline software",
+      "Office Timeline alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.6,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.7,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 7.9,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Office Timeline presents a reasonably documented option for teams exploring office software. Its 7.6/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "PowerPoint add-in for creating project timelines, Gantt charts, roadmaps for professional visuals.",
+    "The record supplies 8 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of office software products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Office Software"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Office Timeline at a glance",
+      "body": "PowerPoint add-in for creating project timelines, Gantt charts, roadmaps for professional visuals."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Office Software, Office Timeline is most relevant during early market discovery. The available record includes 8 category signals and 6 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Office Timeline for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Office Timeline?",
+      "answer": "PowerPoint add-in for creating project timelines, Gantt charts, roadmaps for professional visuals."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Office Timeline?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Office Timeline score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Office Timeline?",
+      "answer": "Teams comparing office software options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://thedigitalprojectmanager.com/wp-content/cache/thedigitalprojectmanager.com/static/static.crozdesk.com/web-app-library-pub-reviews-screenshots-000-007-532-original-Office-Timeline.png",
+      "alt": "Office Timeline product interface or official product visual",
+      "caption": "Office Timeline Review: Pros, Cons, Features & Pricing — source: thedigitalprojectmanager.com"
+    },
+    {
+      "src": "https://work-management.org/wp-content/uploads/2025/06/Office-timeline-home-page-1024x439.webp",
+      "alt": "Office Timeline product visual 2",
+      "caption": "Office Timeline Review 2026: Everything You Need to Know — source: work-management.org"
+    },
+    {
+      "src": "https://software-finder-prod.blr1.digitaloceanspaces.com/image/1780676935829-6c4a402b4dc098586526dab0705d013f5009236c.png",
+      "alt": "Office Timeline product visual 3",
+      "caption": "Office timeline Reviews, Demo & Pricing | Software Finder - 2026 — source: softwarefinder.com"
+    },
+    {
+      "src": "https://static.crozdesk.com/web_app_library/screenshots/images/000/095/910/original/office-timeline-screenshot-4.png?1706167788",
+      "alt": "Office Timeline product visual 4",
+      "caption": "Office Timeline | Software Reviews & Alternatives — source: crozdesk.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Office Timeline official website",
+      "url": "https://officetimeline.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

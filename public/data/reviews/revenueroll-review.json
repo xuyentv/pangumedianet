@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "9102",
+  "slug": "revenueroll-review",
+  "status": "published",
+  "name": "Tie (previously Revenue Roll)",
+  "entityType": "SoftwareApplication",
+  "category": "Hubspot integrated",
+  "tagline": "A buyer-focused look at Tie (previously Revenue Roll) for teams comparing hubspot integrated options",
+  "summary": "Marketing and sales automation platform that helps businesses track leads, automate workflows, and optimize revenue generation.",
+  "website": "https://www.meettie.com",
+  "brand": {
+    "name": "Tie (previously Revenue Roll)"
+  },
+  "partner": {
+    "id": "9102",
+    "slug": "revenueroll",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://www.hubspot.com/hs-fs/hubfs/WBZ%202025%20Rebrand/Product%20UIs/2025-%20Commerce%20Hub/EN/payments-index-screen.png?width=2000&name=payments-index-screen.png",
+        "alt": "Tie (previously Revenue Roll) product visual 2",
+        "caption": "CPQ, Billing & Payments Software | HubSpot Revenue Hub — source: www.hubspot.com"
+      },
+      {
+        "src": "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/Knowledge_Base_2023-24-25/payments-revenue-dashboard-drilldown.gif?width=650&height=289&name=payments-revenue-dashboard-drilldown.gif",
+        "alt": "Tie (previously Revenue Roll) product visual 3",
+        "caption": "Analyze payments revenue — source: knowledge.hubspot.com"
+      },
+      {
+        "src": "https://www.hubspot.com/hs-fs/hubfs/HSFS%20Microsite/hsfs_blogs/HubSpot-Enablement-Deck-4.jpg?width=960&height=540&name=HubSpot-Enablement-Deck-4.jpg",
+        "alt": "Tie (previously Revenue Roll) product visual 4",
+        "caption": "Turn HubSpot into an ROI Engine — Multi-Touch Attribution — source: www.hubspot.com"
+      }
+    ],
+    "videoTitle": "Tie (previously Revenue Roll) product overview",
+    "cover": {
+      "src": "https://cdn.prod.website-files.com/67ff664775ac6729efb80932/685014e34c17efe1d63a28fa_hero-window-min.png",
+      "alt": "Tie (previously Revenue Roll) product interface or official product visual",
+      "caption": "Revenue Roll is now Tie — source: meettie.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Marketing and sales automation platform that helps businesses track leads, automate workflows, and optimize revenue generation.",
+    "The source record categorizes Tie (previously Revenue Roll) under Hubspot integrated.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Tie (previously Revenue Roll) product information on the official website.",
+    "url": "https://www.meettie.com"
+  },
+  "keywords": {
+    "primary": "Tie (previously Revenue Roll) review",
+    "secondary": [
+      "Hubspot integrated",
+      "Tie (previously Revenue Roll) software",
+      "Tie (previously Revenue Roll) alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.5,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.8,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 7.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Tie (previously Revenue Roll) presents a reasonably documented option for teams exploring hubspot integrated. Its 7.5/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Marketing and sales automation platform that helps businesses track leads, automate workflows, and optimize revenue generation.",
+    "The record supplies 11 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of hubspot integrated products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Hubspot integrated"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Tie (previously Revenue Roll) at a glance",
+      "body": "Marketing and sales automation platform that helps businesses track leads, automate workflows, and optimize revenue generation."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Hubspot integrated, Tie (previously Revenue Roll) is most relevant during early market discovery. The available record includes 11 category signals and 5 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Tie (previously Revenue Roll) for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Tie (previously Revenue Roll)?",
+      "answer": "Marketing and sales automation platform that helps businesses track leads, automate workflows, and optimize revenue generation."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Tie (previously Revenue Roll)?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Tie (previously Revenue Roll) score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Tie (previously Revenue Roll)?",
+      "answer": "Teams comparing hubspot integrated options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.prod.website-files.com/67ff664775ac6729efb80932/685014e34c17efe1d63a28fa_hero-window-min.png",
+      "alt": "Tie (previously Revenue Roll) product interface or official product visual",
+      "caption": "Revenue Roll is now Tie — source: meettie.com"
+    },
+    {
+      "src": "https://www.hubspot.com/hs-fs/hubfs/WBZ%202025%20Rebrand/Product%20UIs/2025-%20Commerce%20Hub/EN/payments-index-screen.png?width=2000&name=payments-index-screen.png",
+      "alt": "Tie (previously Revenue Roll) product visual 2",
+      "caption": "CPQ, Billing & Payments Software | HubSpot Revenue Hub — source: www.hubspot.com"
+    },
+    {
+      "src": "https://53.fs1.hubspotusercontent-na1.net/hub/53/hubfs/Knowledge_Base_2023-24-25/payments-revenue-dashboard-drilldown.gif?width=650&height=289&name=payments-revenue-dashboard-drilldown.gif",
+      "alt": "Tie (previously Revenue Roll) product visual 3",
+      "caption": "Analyze payments revenue — source: knowledge.hubspot.com"
+    },
+    {
+      "src": "https://www.hubspot.com/hs-fs/hubfs/HSFS%20Microsite/hsfs_blogs/HubSpot-Enablement-Deck-4.jpg?width=960&height=540&name=HubSpot-Enablement-Deck-4.jpg",
+      "alt": "Tie (previously Revenue Roll) product visual 4",
+      "caption": "Turn HubSpot into an ROI Engine — Multi-Touch Attribution — source: www.hubspot.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Tie (previously Revenue Roll) official website",
+      "url": "https://www.meettie.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

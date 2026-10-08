@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10243",
+  "slug": "notifyme-review",
+  "status": "published",
+  "name": "Notify Me!",
+  "entityType": "SoftwareApplication",
+  "category": "Shopify integrated",
+  "tagline": "A buyer-focused look at Notify Me! for teams comparing shopify integrated options",
+  "summary": "All-in-one Shopify app with restock alerts, wishlists, preorders and more.",
+  "website": "https://notify-me.io/",
+  "brand": {
+    "name": "Notify Me!"
+  },
+  "partner": {
+    "id": "10243",
+    "slug": "notifyme",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://cdn.shopify.com/app-store/listing_images/b53cf4799304e41ed8d02c3814b8f8b8/desktop_screenshot/CIi2va-poYQDEAE=.jpeg?height=900&quality=90&width=1600",
+        "alt": "Notify Me! product visual 2",
+        "caption": "SG: Notify Me ‑ Back in Stock - Auto-notify customers of restocked items via email. | Shopify App Store — source: apps.shopify.com"
+      },
+      {
+        "src": "https://cdn.shopify.com/app-store/listing_images/4a075d2d005d43e365be655ec4e01740/desktop_screenshot/CIuPi9_i4JQDEAE=.jpeg?height=720&quality=90&width=1280",
+        "alt": "Notify Me! product visual 3",
+        "caption": "Back in Stock, Notify Me: Stok - back in stock alerts, waitlist, notify me, preorders, stock | Shopify App Store — source: apps.shopify.com"
+      },
+      {
+        "src": "https://cdn.shopify.com/app-store/listing_images/eba97fce897b9a53675df4232ae5d1d8/desktop_screenshot/CO314KLhiP4CEAE=.png?height=900&width=1600",
+        "alt": "Notify Me! product visual 4",
+        "caption": "NotifyMe ‑ Warnings and Labels - Product labels and product warning popups on add to cart | Shopify App Store — source: apps.shopify.com"
+      }
+    ],
+    "videoTitle": "Notify Me! product overview",
+    "cover": {
+      "src": "https://cdn.shopify.com/app-store/listing_images/1cfc5e6f41267efcfc62aeee29bf2051/promotional_image/CMSJnJbAvI4DEAE=.png?height=720&width=1280",
+      "alt": "Notify Me! product interface or official product visual",
+      "caption": "Notify Me - Notify customers automatically when products are restocked | Shopify App Store — source: apps.shopify.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "All-in-one Shopify app with restock alerts, wishlists, preorders and more.",
+    "The source record categorizes Notify Me! under Shopify integrated.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Notify Me! product information on the official website.",
+    "url": "https://notify-me.io/"
+  },
+  "keywords": {
+    "primary": "Notify Me! review",
+    "secondary": [
+      "Shopify integrated",
+      "Notify Me! software",
+      "Notify Me! alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.1,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.5,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 5.8,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Notify Me! presents a reasonably documented option for teams exploring shopify integrated. Its 7.1/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "All-in-one Shopify app with restock alerts, wishlists, preorders and more.",
+    "The record supplies 10 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of shopify integrated products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Shopify integrated"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Notify Me! at a glance",
+      "body": "All-in-one Shopify app with restock alerts, wishlists, preorders and more."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Shopify integrated, Notify Me! is most relevant during early market discovery. The available record includes 10 category signals and 2 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Notify Me! for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Notify Me!?",
+      "answer": "All-in-one Shopify app with restock alerts, wishlists, preorders and more."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Notify Me!?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Notify Me! score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Notify Me!?",
+      "answer": "Teams comparing shopify integrated options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/1cfc5e6f41267efcfc62aeee29bf2051/promotional_image/CMSJnJbAvI4DEAE=.png?height=720&width=1280",
+      "alt": "Notify Me! product interface or official product visual",
+      "caption": "Notify Me - Notify customers automatically when products are restocked | Shopify App Store — source: apps.shopify.com"
+    },
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/b53cf4799304e41ed8d02c3814b8f8b8/desktop_screenshot/CIi2va-poYQDEAE=.jpeg?height=900&quality=90&width=1600",
+      "alt": "Notify Me! product visual 2",
+      "caption": "SG: Notify Me ‑ Back in Stock - Auto-notify customers of restocked items via email. | Shopify App Store — source: apps.shopify.com"
+    },
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/4a075d2d005d43e365be655ec4e01740/desktop_screenshot/CIuPi9_i4JQDEAE=.jpeg?height=720&quality=90&width=1280",
+      "alt": "Notify Me! product visual 3",
+      "caption": "Back in Stock, Notify Me: Stok - back in stock alerts, waitlist, notify me, preorders, stock | Shopify App Store — source: apps.shopify.com"
+    },
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/eba97fce897b9a53675df4232ae5d1d8/desktop_screenshot/CO314KLhiP4CEAE=.png?height=900&width=1600",
+      "alt": "Notify Me! product visual 4",
+      "caption": "NotifyMe ‑ Warnings and Labels - Product labels and product warning popups on add to cart | Shopify App Store — source: apps.shopify.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Notify Me! official website",
+      "url": "https://notify-me.io/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

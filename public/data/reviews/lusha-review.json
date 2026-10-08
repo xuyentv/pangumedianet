@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "9513",
+  "slug": "lusha-review",
+  "status": "published",
+  "name": "Lusha",
+  "entityType": "SoftwareApplication",
+  "category": "Development",
+  "tagline": "A buyer-focused look at Lusha for teams comparing development options",
+  "summary": "Lusha is the B2B data and intelligence layer used by 1M+ GTM teams globally. With AI-powered lead suggestions Lusha also integrates with Claude, n8n, Make, Clay, Hubspot, Salesforce and more.",
+  "website": "https://www.lusha.com",
+  "brand": {
+    "name": "Lusha"
+  },
+  "partner": {
+    "id": "9513",
+    "slug": "lusha",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://images.saasworthy.com/lusha_29414_screenshot_1615968458_huzfk.png",
+        "alt": "Lusha product visual 2",
+        "caption": "Lusha - Features, Reviews & Pricing (October 2026) — source: www.saasworthy.com"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/689b0a925ba9773f34278e0e/69b3de5c909374379f215bf3_69b3de4bd799c5b95d49218e_Lusha_website_showing_software_development_companies_.jpeg",
+        "alt": "Lusha product visual 3",
+        "caption": "Lusha Review: Pros, Cons, and LinkedIn Outreach Tips — source: www.salesrobot.co"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/689b0a925ba9773f34278e0e/69b3de5c909374379f215c1a_69b3de409aea6397d2f28e83_Lusha_homepage_with_headline__Go_to_market_with_data_you_can_build_on__and_a_network_graphic_.jpeg",
+        "alt": "Lusha product visual 4",
+        "caption": "Lusha Review: Pros, Cons, and LinkedIn Outreach Tips — source: www.salesrobot.co"
+      }
+    ],
+    "videoTitle": "Lusha product overview",
+    "cover": {
+      "src": "https://www.capterra.com/assets-bx-capterra/_next/image?url=https%3A%2F%2Fimages.g2crowd.com%2Fdisplay-layer-screenshots%2F24735%2F91ccbf41d8d7b0365bdf2b228d892ac17a67f0bed4e09ebbcb4adaf65089ce64.png&w=3840&q=50",
+      "alt": "Lusha product interface or official product visual",
+      "caption": "Lusha Software Pricing, Alternatives & More 2026 | Capterra — source: www.capterra.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Lusha is the B2B data and intelligence layer used by 1M+ GTM teams globally. With AI-powered lead suggestions Lusha also integrates with Claude, n8n, Make, Clay, Hubspot, Salesforce and more.",
+    "The source record categorizes Lusha under Development.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Lusha product information on the official website.",
+    "url": "https://www.lusha.com"
+  },
+  "keywords": {
+    "primary": "Lusha review",
+    "secondary": [
+      "Development",
+      "Lusha software",
+      "Lusha alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.6,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 6.2,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 7.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Lusha presents a reasonably documented option for teams exploring development. Its 7.6/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Lusha is the B2B data and intelligence layer used by 1M+ GTM teams globally. With AI-powered lead suggestions Lusha also integrates with Claude, n8n, Make, Clay, Hubspot, Salesforce and more.",
+    "The record supplies 13 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of development products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Development"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Lusha at a glance",
+      "body": "Lusha is the B2B data and intelligence layer used by 1M+ GTM teams globally. With AI-powered lead suggestions Lusha also integrates with Claude, n8n, Make, Clay, Hubspot, Salesforce and more."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Development, Lusha is most relevant during early market discovery. The available record includes 13 category signals and 5 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Lusha for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Lusha?",
+      "answer": "Lusha is the B2B data and intelligence layer used by 1M+ GTM teams globally. With AI-powered lead suggestions Lusha also integrates with Claude, n8n, Make, Clay, Hubspot, Salesforce and more."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Lusha?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Lusha score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Lusha?",
+      "answer": "Teams comparing development options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.capterra.com/assets-bx-capterra/_next/image?url=https%3A%2F%2Fimages.g2crowd.com%2Fdisplay-layer-screenshots%2F24735%2F91ccbf41d8d7b0365bdf2b228d892ac17a67f0bed4e09ebbcb4adaf65089ce64.png&w=3840&q=50",
+      "alt": "Lusha product interface or official product visual",
+      "caption": "Lusha Software Pricing, Alternatives & More 2026 | Capterra — source: www.capterra.com"
+    },
+    {
+      "src": "https://images.saasworthy.com/lusha_29414_screenshot_1615968458_huzfk.png",
+      "alt": "Lusha product visual 2",
+      "caption": "Lusha - Features, Reviews & Pricing (October 2026) — source: www.saasworthy.com"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/689b0a925ba9773f34278e0e/69b3de5c909374379f215bf3_69b3de4bd799c5b95d49218e_Lusha_website_showing_software_development_companies_.jpeg",
+      "alt": "Lusha product visual 3",
+      "caption": "Lusha Review: Pros, Cons, and LinkedIn Outreach Tips — source: www.salesrobot.co"
+    },
+    {
+      "src": "https://cdn.prod.website-files.com/689b0a925ba9773f34278e0e/69b3de5c909374379f215c1a_69b3de409aea6397d2f28e83_Lusha_homepage_with_headline__Go_to_market_with_data_you_can_build_on__and_a_network_graphic_.jpeg",
+      "alt": "Lusha product visual 4",
+      "caption": "Lusha Review: Pros, Cons, and LinkedIn Outreach Tips — source: www.salesrobot.co"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Lusha official website",
+      "url": "https://www.lusha.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

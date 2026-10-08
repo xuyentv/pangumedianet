@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10120",
+  "slug": "distance-review",
+  "status": "published",
+  "name": "Distance",
+  "entityType": "SoftwareApplication",
+  "category": "Sales",
+  "tagline": "A buyer-focused look at Distance for teams comparing sales options",
+  "summary": "Distance is the AI Sales Platform built for service businesses. Capture more leads and book more jobs across channels 24/7.",
+  "website": "https://distance.so",
+  "brand": {
+    "name": "Distance"
+  },
+  "partner": {
+    "id": "10120",
+    "slug": "distance",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-28",
+  "updatedAt": "2026-09-28",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://active-campaign.transforms.svdcdn.com/production/general/wp/2022_03_Brainshark-Sales-Software.png?w=1920&q=80&auto=format&fit=clip&dm=1732095046&s=ac91681f93784948e243d6dd6a48b3c5",
+        "alt": "Distance product visual 2",
+        "caption": "11 Essential Types of Sales Software to Consider for 2024 | ActiveCampaign — source: www.activecampaign.com"
+      },
+      {
+        "src": "https://nerdcow.co.uk/wp-content/uploads/2025/06/stripe-product-demo-examples.png",
+        "alt": "Distance product visual 3",
+        "caption": "Best B2B SaaS product screenshot examples | NerdCow — source: nerdcow.co.uk"
+      },
+      {
+        "src": "https://nerdcow.co.uk/wp-content/uploads/2024/12/user-interviews-product-inferface-screenshots.webp",
+        "alt": "Distance product visual 4",
+        "caption": "Best B2B SaaS product screenshot examples | NerdCow — source: nerdcow.co.uk"
+      }
+    ],
+    "videoTitle": "Distance product overview",
+    "cover": {
+      "src": "https://cdn.shopify.com/app-store/listing_images/8e708eedc28b6485e9ef575bd3f10c1b/desktop_screenshot/CJeY7rO0-ZQDEAE=.png?height=720&width=1280",
+      "alt": "Distance product interface or official product visual",
+      "caption": "DS Shipping Rates Zip Distance - Flexible shipping rules by product, ZIP code, cart, distances. | Shopify App Store — source: apps.shopify.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Distance is the AI Sales Platform built for service businesses. Capture more leads and book more jobs across channels 24/7.",
+    "The source record categorizes Distance under Sales.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Distance product information on the official website.",
+    "url": "https://distance.so"
+  },
+  "keywords": {
+    "primary": "Distance review",
+    "secondary": [
+      "Sales",
+      "Distance software",
+      "Distance alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.2,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.8,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 5.8,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Distance presents a reasonably documented option for teams exploring sales. Its 7.2/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Distance is the AI Sales Platform built for service businesses. Capture more leads and book more jobs across channels 24/7.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of sales products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Sales"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Distance at a glance",
+      "body": "Distance is the AI Sales Platform built for service businesses. Capture more leads and book more jobs across channels 24/7."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Sales, Distance is most relevant during early market discovery. The available record includes 9 category signals and 2 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Distance for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Distance?",
+      "answer": "Distance is the AI Sales Platform built for service businesses. Capture more leads and book more jobs across channels 24/7."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Distance?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Distance score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Distance?",
+      "answer": "Teams comparing sales options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://cdn.shopify.com/app-store/listing_images/8e708eedc28b6485e9ef575bd3f10c1b/desktop_screenshot/CJeY7rO0-ZQDEAE=.png?height=720&width=1280",
+      "alt": "Distance product interface or official product visual",
+      "caption": "DS Shipping Rates Zip Distance - Flexible shipping rules by product, ZIP code, cart, distances. | Shopify App Store — source: apps.shopify.com"
+    },
+    {
+      "src": "https://active-campaign.transforms.svdcdn.com/production/general/wp/2022_03_Brainshark-Sales-Software.png?w=1920&q=80&auto=format&fit=clip&dm=1732095046&s=ac91681f93784948e243d6dd6a48b3c5",
+      "alt": "Distance product visual 2",
+      "caption": "11 Essential Types of Sales Software to Consider for 2024 | ActiveCampaign — source: www.activecampaign.com"
+    },
+    {
+      "src": "https://nerdcow.co.uk/wp-content/uploads/2025/06/stripe-product-demo-examples.png",
+      "alt": "Distance product visual 3",
+      "caption": "Best B2B SaaS product screenshot examples | NerdCow — source: nerdcow.co.uk"
+    },
+    {
+      "src": "https://nerdcow.co.uk/wp-content/uploads/2024/12/user-interviews-product-inferface-screenshots.webp",
+      "alt": "Distance product visual 4",
+      "caption": "Best B2B SaaS product screenshot examples | NerdCow — source: nerdcow.co.uk"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Distance official website",
+      "url": "https://distance.so",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-28"
+  }
+}

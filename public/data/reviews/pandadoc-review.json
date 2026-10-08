@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "6611",
+  "slug": "pandadoc-review",
+  "status": "published",
+  "name": "PandaDoc",
+  "entityType": "SoftwareApplication",
+  "category": "hot",
+  "tagline": "A buyer-focused look at PandaDoc for teams comparing hot options",
+  "summary": "Document automation platform that helps businesses create, distribute, and sign contracts and proposals online.",
+  "website": "https://pandadoc.com",
+  "brand": {
+    "name": "PandaDoc"
+  },
+  "partner": {
+    "id": "6611",
+    "slug": "pandadoc",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://images.ctfassets.net/a4zep9yar86b/6bb1S5UJweMwBiktythFj6/fedeb9266006de216d3c65e29e28193a/Screenshot-2025-12-10-at-8.40.52_E2_80_AFAM.jpg?w=1920&q=75&fm=webp",
+        "alt": "PandaDoc product visual 2",
+        "caption": "Pandadoc Product Updates & New Features — source: www.pandadoc.com"
+      },
+      {
+        "src": "https://images.ctfassets.net/a4zep9yar86b/FQ6r5NymI7cQ1rRm1lyCD/199e0e33161b673d0dfbe954367f60fe/Frame-4-2-1.png?w=1920&q=75&fm=webp",
+        "alt": "PandaDoc product visual 3",
+        "caption": "Feature Product Updates - PandaDoc — source: www.pandadoc.com"
+      },
+      {
+        "src": "https://images.ctfassets.net/a4zep9yar86b/5V8ta9XHxpwIMIxtXFuhYL/0c10c4a3581c751715a9b0e4be296346/BP_PandaDoc-product-update_COVER.png?w=1920&q=75&fm=webp",
+        "alt": "PandaDoc product visual 4",
+        "caption": "2023 PandaDoc Product Summary — source: www.pandadoc.com"
+      }
+    ],
+    "videoTitle": "PandaDoc product overview",
+    "cover": {
+      "src": "https://images.ctfassets.net/a4zep9yar86b/5t9s7o2vyTZ7wnfjwvOl03/156d6ef71e4f374e30af1dbde72ae177/BP_Cover_Product-Year-in-Review.jpg",
+      "alt": "PandaDoc product interface or official product visual",
+      "caption": "Pandadoc Product Updates & New Features — source: www.pandadoc.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Document automation platform that helps businesses create, distribute, and sign contracts and proposals online.",
+    "The source record categorizes PandaDoc under hot.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current PandaDoc product information on the official website.",
+    "url": "https://pandadoc.com"
+  },
+  "keywords": {
+    "primary": "PandaDoc review",
+    "secondary": [
+      "hot",
+      "PandaDoc software",
+      "PandaDoc alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.7,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.8,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "PandaDoc presents a reasonably documented option for teams exploring hot. Its 7.7/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Document automation platform that helps businesses create, distribute, and sign contracts and proposals online.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of hot products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "hot"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "PandaDoc at a glance",
+      "body": "Document automation platform that helps businesses create, distribute, and sign contracts and proposals online."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under hot, PandaDoc is most relevant during early market discovery. The available record includes 9 category signals and 17 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask PandaDoc for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is PandaDoc?",
+      "answer": "Document automation platform that helps businesses create, distribute, and sign contracts and proposals online."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test PandaDoc?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the PandaDoc score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider PandaDoc?",
+      "answer": "Teams comparing hot options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://images.ctfassets.net/a4zep9yar86b/5t9s7o2vyTZ7wnfjwvOl03/156d6ef71e4f374e30af1dbde72ae177/BP_Cover_Product-Year-in-Review.jpg",
+      "alt": "PandaDoc product interface or official product visual",
+      "caption": "Pandadoc Product Updates & New Features — source: www.pandadoc.com"
+    },
+    {
+      "src": "https://images.ctfassets.net/a4zep9yar86b/6bb1S5UJweMwBiktythFj6/fedeb9266006de216d3c65e29e28193a/Screenshot-2025-12-10-at-8.40.52_E2_80_AFAM.jpg?w=1920&q=75&fm=webp",
+      "alt": "PandaDoc product visual 2",
+      "caption": "Pandadoc Product Updates & New Features — source: www.pandadoc.com"
+    },
+    {
+      "src": "https://images.ctfassets.net/a4zep9yar86b/FQ6r5NymI7cQ1rRm1lyCD/199e0e33161b673d0dfbe954367f60fe/Frame-4-2-1.png?w=1920&q=75&fm=webp",
+      "alt": "PandaDoc product visual 3",
+      "caption": "Feature Product Updates - PandaDoc — source: www.pandadoc.com"
+    },
+    {
+      "src": "https://images.ctfassets.net/a4zep9yar86b/5V8ta9XHxpwIMIxtXFuhYL/0c10c4a3581c751715a9b0e4be296346/BP_PandaDoc-product-update_COVER.png?w=1920&q=75&fm=webp",
+      "alt": "PandaDoc product visual 4",
+      "caption": "2023 PandaDoc Product Summary — source: www.pandadoc.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "PandaDoc official website",
+      "url": "https://pandadoc.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

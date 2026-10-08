@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10194",
+  "slug": "datahawk-review",
+  "status": "published",
+  "name": "DataHawk",
+  "entityType": "SoftwareApplication",
+  "category": "E-Commerce",
+  "tagline": "A buyer-focused look at DataHawk for teams comparing e-commerce options",
+  "summary": "DataHawk is an enterprise marketplace analytics platform for Amazon and Walmart sellers. It unifies sales, SEO, advertising, and profitability data with AI-powered insights and automated reporting to grow revenue.",
+  "website": "https://datahawk.co",
+  "brand": {
+    "name": "DataHawk"
+  },
+  "partner": {
+    "id": "10194",
+    "slug": "datahawk",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://datahawk.co/wp-content/uploads/2026/01/adobe-1024x446.png",
+        "alt": "DataHawk product visual 2",
+        "caption": "10 best Ecommerce & Marketplace Analytics tools in 2026 — source: datahawk.co"
+      },
+      {
+        "src": "https://datahawk.co/wp-content/uploads/2026/01/glew-scaled.png",
+        "alt": "DataHawk product visual 3",
+        "caption": "10 best Ecommerce & Marketplace Analytics tools in 2026 — source: datahawk.co"
+      },
+      {
+        "src": "https://datahawk.co/wp-content/uploads/2025/10/dh-home-page-hero.png",
+        "alt": "DataHawk product visual 4",
+        "caption": "Marketplace Analytics for Amazon, Walmart, and Shopify Growth — source: datahawk.co"
+      }
+    ],
+    "videoTitle": "DataHawk product overview",
+    "cover": {
+      "src": "https://datahawk.co/wp-content/uploads/2026/01/datahawk-scaled.png",
+      "alt": "DataHawk product interface or official product visual",
+      "caption": "10 best Ecommerce & Marketplace Analytics tools in 2026 — source: datahawk.co"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "DataHawk is an enterprise marketplace analytics platform for Amazon and Walmart sellers. It unifies sales, SEO, advertising, and profitability data with AI-powered insights and automated reporting to grow revenue.",
+    "The source record categorizes DataHawk under E-Commerce.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current DataHawk product information on the official website.",
+    "url": "https://datahawk.co"
+  },
+  "keywords": {
+    "primary": "DataHawk review",
+    "secondary": [
+      "E-Commerce",
+      "DataHawk software",
+      "DataHawk alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.3,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 6.4,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 5.3,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "DataHawk presents a reasonably documented option for teams exploring e-commerce. Its 7.3/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "DataHawk is an enterprise marketplace analytics platform for Amazon and Walmart sellers. It unifies sales, SEO, advertising, and profitability data with AI-powered insights and automated reporting to grow revenue.",
+    "The record supplies 18 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of e-commerce products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "E-Commerce"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "DataHawk at a glance",
+      "body": "DataHawk is an enterprise marketplace analytics platform for Amazon and Walmart sellers. It unifies sales, SEO, advertising, and profitability data with AI-powered insights and automated reporting to grow revenue."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under E-Commerce, DataHawk is most relevant during early market discovery. The available record includes 18 category signals and 1 commercial record, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask DataHawk for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is buying detail. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is DataHawk?",
+      "answer": "DataHawk is an enterprise marketplace analytics platform for Amazon and Walmart sellers. It unifies sales, SEO, advertising, and profitability data with AI-powered insights and automated reporting to grow revenue."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test DataHawk?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the DataHawk score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider DataHawk?",
+      "answer": "Teams comparing e-commerce options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://datahawk.co/wp-content/uploads/2026/01/datahawk-scaled.png",
+      "alt": "DataHawk product interface or official product visual",
+      "caption": "10 best Ecommerce & Marketplace Analytics tools in 2026 — source: datahawk.co"
+    },
+    {
+      "src": "https://datahawk.co/wp-content/uploads/2026/01/adobe-1024x446.png",
+      "alt": "DataHawk product visual 2",
+      "caption": "10 best Ecommerce & Marketplace Analytics tools in 2026 — source: datahawk.co"
+    },
+    {
+      "src": "https://datahawk.co/wp-content/uploads/2026/01/glew-scaled.png",
+      "alt": "DataHawk product visual 3",
+      "caption": "10 best Ecommerce & Marketplace Analytics tools in 2026 — source: datahawk.co"
+    },
+    {
+      "src": "https://datahawk.co/wp-content/uploads/2025/10/dh-home-page-hero.png",
+      "alt": "DataHawk product visual 4",
+      "caption": "Marketplace Analytics for Amazon, Walmart, and Shopify Growth — source: datahawk.co"
+    }
+  ],
+  "sources": [
+    {
+      "title": "DataHawk official website",
+      "url": "https://datahawk.co",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

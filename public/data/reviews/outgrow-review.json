@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "1010",
+  "slug": "outgrow-review",
+  "status": "published",
+  "name": "Outgrow",
+  "entityType": "SoftwareApplication",
+  "category": "hot",
+  "tagline": "A buyer-focused look at Outgrow for teams comparing hot options",
+  "summary": "Interactive content platform that helps businesses create quizzes, calculators, and assessments to engage customers and generate leads.",
+  "website": "https://outgrow.co",
+  "brand": {
+    "name": "Outgrow"
+  },
+  "partner": {
+    "id": "1010",
+    "slug": "outgrow",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://files.readme.io/40717f8-Screen_Shot_2022-11-15_at_5.07.56_PM.png",
+        "alt": "Outgrow product visual 2",
+        "caption": "Content Customization As Per Your Branding Guidelines — source: support.outgrow.co"
+      },
+      {
+        "src": "https://super-monitoring.com/blog/wp-content/uploads/2018/08/outgrow2.png.webp",
+        "alt": "Outgrow product visual 3",
+        "caption": "Outgrow: an interactive customer support platform — source: www.supermonitoring.com"
+      },
+      {
+        "src": "https://cdn-3.webcatalog.io/app-version-screenshots/cms6zkhyb000104lb0j5ml75z.webp?v=1785384064135",
+        "alt": "Outgrow product visual 4",
+        "caption": "Outgrow - Desktop App for Mac & Windows - WebCatalog — source: webcatalog.io"
+      }
+    ],
+    "videoTitle": "Outgrow product overview",
+    "cover": {
+      "src": "https://files.readme.io/c770e164acadc11a06f6aa780d95291f8f2847afabc3b1676023cfd70ebd4b66-Screenshot_2025-01-08_at_12.56.31_PM.png",
+      "alt": "Outgrow product interface or official product visual",
+      "caption": "Configuring Spin The Wheel Widget In Your Outgrow Content — source: support.outgrow.co"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Interactive content platform that helps businesses create quizzes, calculators, and assessments to engage customers and generate leads.",
+    "The source record categorizes Outgrow under hot.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Outgrow product information on the official website.",
+    "url": "https://outgrow.co"
+  },
+  "keywords": {
+    "primary": "Outgrow review",
+    "secondary": [
+      "hot",
+      "Outgrow software",
+      "Outgrow alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.7,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 5.9,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Outgrow presents a reasonably documented option for teams exploring hot. Its 7.7/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Interactive content platform that helps businesses create quizzes, calculators, and assessments to engage customers and generate leads.",
+    "The record supplies 11 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of hot products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "hot"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Outgrow at a glance",
+      "body": "Interactive content platform that helps businesses create quizzes, calculators, and assessments to engage customers and generate leads."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under hot, Outgrow is most relevant during early market discovery. The available record includes 11 category signals and 19 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Outgrow for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Outgrow?",
+      "answer": "Interactive content platform that helps businesses create quizzes, calculators, and assessments to engage customers and generate leads."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Outgrow?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Outgrow score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Outgrow?",
+      "answer": "Teams comparing hot options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://files.readme.io/c770e164acadc11a06f6aa780d95291f8f2847afabc3b1676023cfd70ebd4b66-Screenshot_2025-01-08_at_12.56.31_PM.png",
+      "alt": "Outgrow product interface or official product visual",
+      "caption": "Configuring Spin The Wheel Widget In Your Outgrow Content — source: support.outgrow.co"
+    },
+    {
+      "src": "https://files.readme.io/40717f8-Screen_Shot_2022-11-15_at_5.07.56_PM.png",
+      "alt": "Outgrow product visual 2",
+      "caption": "Content Customization As Per Your Branding Guidelines — source: support.outgrow.co"
+    },
+    {
+      "src": "https://super-monitoring.com/blog/wp-content/uploads/2018/08/outgrow2.png.webp",
+      "alt": "Outgrow product visual 3",
+      "caption": "Outgrow: an interactive customer support platform — source: www.supermonitoring.com"
+    },
+    {
+      "src": "https://cdn-3.webcatalog.io/app-version-screenshots/cms6zkhyb000104lb0j5ml75z.webp?v=1785384064135",
+      "alt": "Outgrow product visual 4",
+      "caption": "Outgrow - Desktop App for Mac & Windows - WebCatalog — source: webcatalog.io"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Outgrow official website",
+      "url": "https://outgrow.co",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

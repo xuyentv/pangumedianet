@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10578",
+  "slug": "inmotionhostinginc-review",
+  "status": "published",
+  "name": "InMotion Hosting",
+  "entityType": "SoftwareApplication",
+  "category": "Hosting Providers",
+  "tagline": "A buyer-focused look at InMotion Hosting for teams comparing hosting providers options",
+  "summary": "Partner with InMotion Hosting to earn commissions on client referrals, offer exclusive hosting discounts, and access agency-focused support, migrations, resources, and growth opportunities.",
+  "website": "https://www.inmotionhosting.com",
+  "brand": {
+    "name": "InMotion Hosting"
+  },
+  "partner": {
+    "id": "10578",
+    "slug": "inmotionhostinginc",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/10/InMotion-Hosting-Homepage-2026-02-02-1024x729.png",
+        "alt": "InMotion Hosting product visual 2",
+        "caption": "Web Hosting for Startups: The Foundation of Digital Growth | InMotion Hosting — source: www.inmotionhosting.com"
+      },
+      {
+        "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/09/Screenshot-2025-09-22-at-4.02.10-PM-1024x539.png",
+        "alt": "InMotion Hosting product visual 3",
+        "caption": "Email Hosting for Small Business: What You Need to Know | InMotion Hosting — source: www.inmotionhosting.com"
+      },
+      {
+        "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/09/InMotion-Hosting-Homepage-2026-06-08-1024x814.png",
+        "alt": "InMotion Hosting product visual 4",
+        "caption": "Best Scalable Web Hosting: 5 Providers Compared 2026 — source: www.inmotionhosting.com"
+      }
+    ],
+    "videoTitle": "InMotion Hosting product overview",
+    "cover": {
+      "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2026/04/cpanel-whm-product-2-1024x748.png",
+      "alt": "InMotion Hosting product interface or official product visual",
+      "caption": "Best Web Hosting Plans for Agencies: Shared, VPS, and Dedicated Compared | InMotion Hosting — source: www.inmotionhosting.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Partner with InMotion Hosting to earn commissions on client referrals, offer exclusive hosting discounts, and access agency-focused support, migrations, resources, and growth opportunities.",
+    "The source record categorizes InMotion Hosting under Hosting Providers.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current InMotion Hosting product information on the official website.",
+    "url": "https://www.inmotionhosting.com"
+  },
+  "keywords": {
+    "primary": "InMotion Hosting review",
+    "secondary": [
+      "Hosting Providers",
+      "InMotion Hosting software",
+      "InMotion Hosting alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.7,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 6.2,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.4,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "InMotion Hosting presents a reasonably documented option for teams exploring hosting providers. Its 7.7/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Partner with InMotion Hosting to earn commissions on client referrals, offer exclusive hosting discounts, and access agency-focused support, migrations, resources, and growth opportunities.",
+    "The record supplies 7 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of hosting providers products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Hosting Providers"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "InMotion Hosting at a glance",
+      "body": "Partner with InMotion Hosting to earn commissions on client referrals, offer exclusive hosting discounts, and access agency-focused support, migrations, resources, and growth opportunities."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Hosting Providers, InMotion Hosting is most relevant during early market discovery. The available record includes 7 category signals and 36 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask InMotion Hosting for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is product clarity. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is InMotion Hosting?",
+      "answer": "Partner with InMotion Hosting to earn commissions on client referrals, offer exclusive hosting discounts, and access agency-focused support, migrations, resources, and growth opportunities."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test InMotion Hosting?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the InMotion Hosting score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider InMotion Hosting?",
+      "answer": "Teams comparing hosting providers options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2026/04/cpanel-whm-product-2-1024x748.png",
+      "alt": "InMotion Hosting product interface or official product visual",
+      "caption": "Best Web Hosting Plans for Agencies: Shared, VPS, and Dedicated Compared | InMotion Hosting — source: www.inmotionhosting.com"
+    },
+    {
+      "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/10/InMotion-Hosting-Homepage-2026-02-02-1024x729.png",
+      "alt": "InMotion Hosting product visual 2",
+      "caption": "Web Hosting for Startups: The Foundation of Digital Growth | InMotion Hosting — source: www.inmotionhosting.com"
+    },
+    {
+      "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/09/Screenshot-2025-09-22-at-4.02.10-PM-1024x539.png",
+      "alt": "InMotion Hosting product visual 3",
+      "caption": "Email Hosting for Small Business: What You Need to Know | InMotion Hosting — source: www.inmotionhosting.com"
+    },
+    {
+      "src": "https://www.inmotionhosting.com/blog/wp-content/uploads/2025/09/InMotion-Hosting-Homepage-2026-06-08-1024x814.png",
+      "alt": "InMotion Hosting product visual 4",
+      "caption": "Best Scalable Web Hosting: 5 Providers Compared 2026 — source: www.inmotionhosting.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "InMotion Hosting official website",
+      "url": "https://www.inmotionhosting.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

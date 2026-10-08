@@ -6,6 +6,8 @@ import {App} from './App';
 import type {GeneratedReview} from './types/content';
 import './styles/index.css';
 import './styles/home-reviews.css';
+import './styles/home-card-redesign.css';
+import './styles/social-channels.css';
 import './styles/review-archive.css';
 import './styles/reviews.css';
 import './styles/review-video.css';

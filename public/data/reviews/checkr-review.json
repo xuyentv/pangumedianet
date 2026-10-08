@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10664",
+  "slug": "checkr-review",
+  "status": "published",
+  "name": "Checkr",
+  "entityType": "SoftwareApplication",
+  "category": "HR Software",
+  "tagline": "A buyer-focused look at Checkr for teams comparing hr software options",
+  "summary": "Checkr is the verification platform for life's critical decisions - hiring, approving loans, selecting a nanny, and more. Trusted by 130,000+ businesses, Checkr AI delivers clear answers about identity and background. Partners earn $150 per referral.",
+  "website": "http://www.checkr.com/",
+  "brand": {
+    "name": "Checkr"
+  },
+  "partner": {
+    "id": "10664",
+    "slug": "checkr",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000009rBZ&feoid=00NQr000002fF8Q&refid=0EMQr00000I50kz",
+        "alt": "Checkr product visual 2",
+        "caption": "MokaHR / Checkr Integration User Guide — source: help.checkr.com"
+      },
+      {
+        "src": "https://images.g2crowd.com/uploads/attachment/file/1313104/Checkr-Dashboard-and-Candidate-Portal.png",
+        "alt": "Checkr product visual 3",
+        "caption": "Checkr Reviews 2026: Details, Pricing, & Features | G2 — source: www.g2.com"
+      },
+      {
+        "src": "https://images.g2crowd.com/uploads/attachment/file/1313108/Checkr-Analytics-Dashboard.png",
+        "alt": "Checkr product visual 4",
+        "caption": "Checkr Reviews 2026: Details, Pricing, & Features | G2 — source: www.g2.com"
+      }
+    ],
+    "videoTitle": "Checkr product overview",
+    "cover": {
+      "src": "https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002Tqj&feoid=00NQr000002fF8Q&refid=0EMQr00000963ES",
+      "alt": "Checkr product interface or official product visual",
+      "caption": "HR Cloud / Checkr Integration User Guide — source: help.checkr.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Checkr is the verification platform for life's critical decisions - hiring, approving loans, selecting a nanny, and more. Trusted by 130,000+ businesses, Checkr AI delivers clear answers about identity and background. Partners earn $150 per referral.",
+    "The source record categorizes Checkr under HR Software.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Checkr product information on the official website.",
+    "url": "http://www.checkr.com/"
+  },
+  "keywords": {
+    "primary": "Checkr review",
+    "secondary": [
+      "HR Software",
+      "Checkr software",
+      "Checkr alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.6,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 6.6,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 6.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Checkr presents a reasonably documented option for teams exploring hr software. Its 7.6/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Checkr is the verification platform for life's critical decisions - hiring, approving loans, selecting a nanny, and more. Trusted by 130,000+ businesses, Checkr AI delivers clear answers about identity and background. Partners earn $150 per referral.",
+    "The record supplies 15 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of hr software products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "HR Software"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Checkr at a glance",
+      "body": "Checkr is the verification platform for life's critical decisions - hiring, approving loans, selecting a nanny, and more. Trusted by 130,000+ businesses, Checkr AI delivers clear answers about identity and background. Partners earn $150 per referral."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under HR Software, Checkr is most relevant during early market discovery. The available record includes 15 category signals and 3 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Checkr for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is buying detail. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Checkr?",
+      "answer": "Checkr is the verification platform for life's critical decisions - hiring, approving loans, selecting a nanny, and more. Trusted by 130,000+ businesses, Checkr AI delivers clear answers about identity and background. Partners earn $150 per referral."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Checkr?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Checkr score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Checkr?",
+      "answer": "Teams comparing hr software options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000002Tqj&feoid=00NQr000002fF8Q&refid=0EMQr00000963ES",
+      "alt": "Checkr product interface or official product visual",
+      "caption": "HR Cloud / Checkr Integration User Guide — source: help.checkr.com"
+    },
+    {
+      "src": "https://help.checkr.com/servlet/rtaImage?eid=ka0Qr0000009rBZ&feoid=00NQr000002fF8Q&refid=0EMQr00000I50kz",
+      "alt": "Checkr product visual 2",
+      "caption": "MokaHR / Checkr Integration User Guide — source: help.checkr.com"
+    },
+    {
+      "src": "https://images.g2crowd.com/uploads/attachment/file/1313104/Checkr-Dashboard-and-Candidate-Portal.png",
+      "alt": "Checkr product visual 3",
+      "caption": "Checkr Reviews 2026: Details, Pricing, & Features | G2 — source: www.g2.com"
+    },
+    {
+      "src": "https://images.g2crowd.com/uploads/attachment/file/1313108/Checkr-Analytics-Dashboard.png",
+      "alt": "Checkr product visual 4",
+      "caption": "Checkr Reviews 2026: Details, Pricing, & Features | G2 — source: www.g2.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Checkr official website",
+      "url": "http://www.checkr.com/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

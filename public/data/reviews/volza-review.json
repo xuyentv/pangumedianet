@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "10335",
+  "slug": "volza-review",
+  "status": "published",
+  "name": "Volza",
+  "entityType": "SoftwareApplication",
+  "category": "Sales",
+  "tagline": "A buyer-focused look at Volza for teams comparing sales options",
+  "summary": "Volza is world’s most popular & global trade-intelligence platform delivering verified export-import shipment data and actionable insights. With 30 + years of heritage in trade analytics, we serve thousands of businesses and top consultancies worldwide.",
+  "website": "https://www.volza.com/",
+  "brand": {
+    "name": "Volza"
+  },
+  "partner": {
+    "id": "10335",
+    "slug": "volza",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://www.softwareworld.co/assets/software/media/volza-1.png",
+        "alt": "Volza product visual 2",
+        "caption": "Volza Reviews Sep 2026: Pricing & Features | SoftwareWorld — source: www.softwareworld.co"
+      },
+      {
+        "src": "https://external-preview.redd.it/beware-of-volzas-fake-data-and-extra-shipments-v0-azM2dXI3N3kzNzloMUNLAY5jZ6JPN2pUuULgdFwRl2rGZVUAirTSwhEtS5cx.png?format=pjpg&auto=webp&s=5370d1e9875657a596068f774994db9c5bb9a771",
+        "alt": "Volza product visual 3",
+        "caption": "BEWARE OF VOLZA'S FAKE DATA AND EXTRA SHIPMENTS!!!!! — source: www.reddit.com"
+      },
+      {
+        "src": "https://todaytesting.com/wp-content/uploads/brands/web/volza-review-1000x560.webp",
+        "alt": "Volza product visual 4",
+        "caption": "Volza Review 2024: Features, Pricing, Alternatives & Promo Codes — source: todaytesting.com"
+      }
+    ],
+    "videoTitle": "Volza product overview",
+    "cover": {
+      "src": "https://www.volza.com/images/featuresPages/platformpage/tool-dashboard.webp",
+      "alt": "Volza product interface or official product visual",
+      "caption": "Volza Trade Intelligence Platform – Smart Global Data for Importers & Exporters — source: www.volza.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "Volza is world’s most popular & global trade-intelligence platform delivering verified export-import shipment data and actionable insights. With 30 + years of heritage in trade analytics, we serve thousands of businesses and top consultancies worldwide.",
+    "The source record categorizes Volza under Sales.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current Volza product information on the official website.",
+    "url": "https://www.volza.com/"
+  },
+  "keywords": {
+    "primary": "Volza review",
+    "secondary": [
+      "Sales",
+      "Volza software",
+      "Volza alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.6,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 6.6,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 6.4,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "Volza presents a reasonably documented option for teams exploring sales. Its 7.6/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "Volza is world’s most popular & global trade-intelligence platform delivering verified export-import shipment data and actionable insights. With 30 + years of heritage in trade analytics, we serve thousands of businesses and top consultancies worldwide.",
+    "The record supplies 18 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of sales products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Sales"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "Volza at a glance",
+      "body": "Volza is world’s most popular & global trade-intelligence platform delivering verified export-import shipment data and actionable insights. With 30 + years of heritage in trade analytics, we serve thousands of businesses and top consultancies worldwide."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Sales, Volza is most relevant during early market discovery. The available record includes 18 category signals and 3 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask Volza for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is buying detail. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is Volza?",
+      "answer": "Volza is world’s most popular & global trade-intelligence platform delivering verified export-import shipment data and actionable insights. With 30 + years of heritage in trade analytics, we serve thousands of businesses and top consultancies worldwide."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test Volza?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the Volza score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider Volza?",
+      "answer": "Teams comparing sales options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://www.volza.com/images/featuresPages/platformpage/tool-dashboard.webp",
+      "alt": "Volza product interface or official product visual",
+      "caption": "Volza Trade Intelligence Platform – Smart Global Data for Importers & Exporters — source: www.volza.com"
+    },
+    {
+      "src": "https://www.softwareworld.co/assets/software/media/volza-1.png",
+      "alt": "Volza product visual 2",
+      "caption": "Volza Reviews Sep 2026: Pricing & Features | SoftwareWorld — source: www.softwareworld.co"
+    },
+    {
+      "src": "https://external-preview.redd.it/beware-of-volzas-fake-data-and-extra-shipments-v0-azM2dXI3N3kzNzloMUNLAY5jZ6JPN2pUuULgdFwRl2rGZVUAirTSwhEtS5cx.png?format=pjpg&auto=webp&s=5370d1e9875657a596068f774994db9c5bb9a771",
+      "alt": "Volza product visual 3",
+      "caption": "BEWARE OF VOLZA'S FAKE DATA AND EXTRA SHIPMENTS!!!!! — source: www.reddit.com"
+    },
+    {
+      "src": "https://todaytesting.com/wp-content/uploads/brands/web/volza-review-1000x560.webp",
+      "alt": "Volza product visual 4",
+      "caption": "Volza Review 2024: Features, Pricing, Alternatives & Promo Codes — source: todaytesting.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Volza official website",
+      "url": "https://www.volza.com/",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}

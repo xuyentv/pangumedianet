@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 2,
+  "id": "9010",
+  "slug": "clevertap-review",
+  "status": "published",
+  "name": "CleverTap",
+  "entityType": "SoftwareApplication",
+  "category": "Development",
+  "tagline": "A buyer-focused look at CleverTap for teams comparing development options",
+  "summary": "CleverTap is the world's leading AI-native customer engagement and retention platform, helping brands turn data into lasting customer relationships. Its intelligence layer, CleverAI™, uses real-time and historical data to decide the best message, offer, and moment for each customer, delivering 1:1 personalization across every channel and learning from outcomes to improve future decisions — replacing one-size-fits-all campaigns with relevant engagement that drives measurable business impact.",
+  "website": "https://clevertap.com",
+  "brand": {
+    "name": "CleverTap"
+  },
+  "partner": {
+    "id": "9010",
+    "slug": "clevertap",
+    "source": "partnerdata.json"
+  },
+  "publishedAt": "2026-09-29",
+  "updatedAt": "2026-09-29",
+  "evidenceLevel": "Desk research — structured record and official product material",
+  "methodology": {
+    "basis": "Our buyer brief is assembled from the supplied partner record, product positioning, categories, official-site availability, commercial fields, and source timestamps. Each scoring input follows the same published weighting model.",
+    "limitations": "This is a desk-research assessment, not a hands-on lab test. Performance, pricing, integrations, security, implementation effort, and support quality should be confirmed with the vendor."
+  },
+  "media": {
+    "gallery": [
+      {
+        "src": "https://clevertap.com/wp-content/uploads/2024/08/Gaming-Screen_1.png",
+        "alt": "CleverTap product visual 2",
+        "caption": "Product Experiences: No-Code App & Web Experience Optimization — source: clevertap.com"
+      },
+      {
+        "src": "https://files.readme.io/7614538-System_Segments.png",
+        "alt": "CleverTap product visual 3",
+        "caption": "Types of Segments — source: docs.clevertap.com"
+      },
+      {
+        "src": "https://files.readme.io/2912bb5-Screenshot_2022-08-01_at_4.14.26_PM.png",
+        "alt": "CleverTap product visual 4",
+        "caption": "iOS Quick Start Guide — source: developer.clevertap.com"
+      }
+    ],
+    "videoTitle": "CleverTap product overview",
+    "cover": {
+      "src": "https://i0.wp.com/tech.clevertap.com/wp-content/uploads/2021/03/A02.png?fit=2560%2C1442&ssl=1",
+      "alt": "CleverTap product interface or official product visual",
+      "caption": "Designing The Future Of CleverTap: A Q&A With Our Head Of Design - CleverTap Tech Blog — source: tech.clevertap.com"
+    }
+  },
+  "author": {
+    "name": "Pangu Medianet Editorial",
+    "slug": "pangu-medianet-editorial"
+  },
+  "highlights": [
+    "CleverTap is the world's leading AI-native customer engagement and retention platform, helping brands turn data into lasting customer relationships. Its intelligence layer, CleverAI™, uses real-time and historical data to decide the best message, offer, and moment for each customer, delivering 1:1 personalization across every channel and learning from outcomes to improve future decisions — replacing one-size-fits-all campaigns with relevant engagement that drives measurable business impact.",
+    "The source record categorizes CleverTap under Development.",
+    "An official product destination is available for current details."
+  ],
+  "offer": {
+    "description": "Review current CleverTap product information on the official website.",
+    "url": "https://clevertap.com"
+  },
+  "keywords": {
+    "primary": "CleverTap review",
+    "secondary": [
+      "Development",
+      "CleverTap software",
+      "CleverTap alternatives"
+    ]
+  },
+  "rating": {
+    "value": 7.7,
+    "scale": 10,
+    "label": "Promising research profile",
+    "criteria": [
+      {
+        "key": "productClarity",
+        "label": "Product clarity",
+        "score": 8,
+        "weight": 28,
+        "summary": "How clearly the source material defines the product, its purpose, and expected workflow."
+      },
+      {
+        "key": "audienceFit",
+        "label": "Audience fit",
+        "score": 8.8,
+        "weight": 24,
+        "summary": "How specifically the available categories identify likely teams and use cases."
+      },
+      {
+        "key": "buyerAccess",
+        "label": "Buyer access",
+        "score": 8.4,
+        "weight": 18,
+        "summary": "Whether buyers have an official destination where current claims can be checked."
+      },
+      {
+        "key": "buyingDetail",
+        "label": "Buying detail",
+        "score": 4.8,
+        "weight": 18,
+        "summary": "The depth of structured commercial and offer information available to a buyer."
+      },
+      {
+        "key": "recordConfidence",
+        "label": "Record confidence",
+        "score": 7.8,
+        "weight": 12,
+        "summary": "The presence of dated source metadata and enough context to support an initial evaluation."
+      }
+    ]
+  },
+  "verdict": "CleverTap presents a reasonably documented option for teams exploring development. Its 7.7/10 research score measures the quality of available buying information rather than product performance. Put it on the shortlist when its stated use case matches your needs, then validate pricing, implementation, and must-have capabilities in a live vendor conversation.",
+  "pros": [
+    "CleverTap is the world's leading AI-native customer engagement and retention platform, helping brands turn data into lasting customer relationships. Its intelligence layer, CleverAI™, uses real-time and historical data to decide the best message, offer, and moment for each customer, delivering 1:1 personalization across every channel and learning from outcomes to improve future decisions — replacing one-size-fits-all campaigns with relevant engagement that drives measurable business impact.",
+    "The record supplies 9 category or use-case tags.",
+    "The record provides an official destination for further verification."
+  ],
+  "cons": [
+    "No hands-on testing evidence is included in the supplied dataset.",
+    "Current pricing, implementation requirements, and contract terms require vendor confirmation.",
+    "Integrations, security controls, and support quality are not independently verified here."
+  ],
+  "bestFor": [
+    "Teams building an initial shortlist of development products",
+    "Buyers prepared to verify workflow fit through a demonstration",
+    "Decision-makers who value clearly documented product positioning"
+  ],
+  "notIdealFor": [
+    "Teams needing independently benchmarked performance results",
+    "Buyers who require public, verified pricing before a sales conversation",
+    "Regulated organizations treating this page as a compliance assessment"
+  ],
+  "keyFacts": [
+    {
+      "label": "Market category",
+      "value": "Development"
+    },
+    {
+      "label": "Research method",
+      "value": "Structured desk research"
+    },
+    {
+      "label": "Hands-on tested",
+      "value": "No — vendor validation recommended"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "CleverTap at a glance",
+      "body": "CleverTap is the world's leading AI-native customer engagement and retention platform, helping brands turn data into lasting customer relationships. Its intelligence layer, CleverAI™, uses real-time and historical data to decide the best message, offer, and moment for each customer, delivering 1:1 personalization across every channel and learning from outcomes to improve future decisions — replacing one-size-fits-all campaigns with relevant engagement that drives measurable business impact."
+    },
+    {
+      "heading": "Where it may fit in a shortlist",
+      "body": "Based on its positioning under Development, CleverTap is most relevant during early market discovery. The available record includes 9 category signals and 0 commercial records, giving buyers a starting point—not a substitute for requirements validation."
+    },
+    {
+      "heading": "Questions to ask before buying",
+      "body": "Ask CleverTap for a workflow-specific demonstration, itemized pricing, implementation responsibilities, data-processing terms, support response targets, and references from organizations with a similar scale and use case."
+    },
+    {
+      "heading": "Our research perspective",
+      "body": "The strongest signal in this assessment is audience fit; the area requiring the most buyer diligence is buying detail. These signals describe documentation quality and should not be read as measured product performance."
+    }
+  ],
+  "faq": [
+    {
+      "question": "What is CleverTap?",
+      "answer": "CleverTap is the world's leading AI-native customer engagement and retention platform, helping brands turn data into lasting customer relationships. Its intelligence layer, CleverAI™, uses real-time and historical data to decide the best message, offer, and moment for each customer, delivering 1:1 personalization across every channel and learning from outcomes to improve future decisions — replacing one-size-fits-all campaigns with relevant engagement that drives measurable business impact."
+    },
+    {
+      "question": "Did Pangu Medianet hands-on test CleverTap?",
+      "answer": "No. This generated assessment is based on the supplied structured partner record and clearly identified vendor information."
+    },
+    {
+      "question": "How is the CleverTap score calculated?",
+      "answer": "The research score weights product clarity (28%), audience fit (24%), buyer access (18%), buying detail (18%), and record confidence (12%). It evaluates available buying information, not product performance."
+    },
+    {
+      "question": "Who should consider CleverTap?",
+      "answer": "Teams comparing development options may use this brief as a starting point, then confirm workflow, pricing, implementation, security, and support requirements directly with the vendor."
+    }
+  ],
+  "images": [
+    {
+      "src": "https://i0.wp.com/tech.clevertap.com/wp-content/uploads/2021/03/A02.png?fit=2560%2C1442&ssl=1",
+      "alt": "CleverTap product interface or official product visual",
+      "caption": "Designing The Future Of CleverTap: A Q&A With Our Head Of Design - CleverTap Tech Blog — source: tech.clevertap.com"
+    },
+    {
+      "src": "https://clevertap.com/wp-content/uploads/2024/08/Gaming-Screen_1.png",
+      "alt": "CleverTap product visual 2",
+      "caption": "Product Experiences: No-Code App & Web Experience Optimization — source: clevertap.com"
+    },
+    {
+      "src": "https://files.readme.io/7614538-System_Segments.png",
+      "alt": "CleverTap product visual 3",
+      "caption": "Types of Segments — source: docs.clevertap.com"
+    },
+    {
+      "src": "https://files.readme.io/2912bb5-Screenshot_2022-08-01_at_4.14.26_PM.png",
+      "alt": "CleverTap product visual 4",
+      "caption": "iOS Quick Start Guide — source: developer.clevertap.com"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CleverTap official website",
+      "url": "https://clevertap.com",
+      "type": "official"
+    },
+    {
+      "title": "Supplied partner dataset record",
+      "url": "",
+      "type": "dataset"
+    }
+  ],
+  "generation": {
+    "generator": "generate-partner-reviews.mjs",
+    "generatedAt": "2026-10-08T19:49:51.779Z",
+    "sourceRecordUpdatedAt": "2026-09-29"
+  }
+}
