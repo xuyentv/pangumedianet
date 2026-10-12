@@ -44,7 +44,7 @@ export function Layout({children}: {children: React.ReactNode}) {
     <a className="skip" href="#main">Skip to content</a>
     <header className="header">
       <div className="container nav">
-        <Link className="brand" to="/"><span>P</span>{SITE.name}</Link>
+        <Link className="brand" to="/" aria-label={`${SITE.name} home`}><img src="/images/logo.png" alt="" width="42" height="42"/><span className="brand-name">{SITE.name}</span></Link>
         <button className="menu" aria-label="Toggle navigation" aria-expanded={open} onClick={() => setOpen(!open)}>{open ? <X/> : <Menu/>}</button>
         <nav aria-label="Primary" className={open ? 'open' : ''}>
           {links.map(([to, name]) => <NavLink key={to} to={to} onClick={() => setOpen(false)}>{name}</NavLink>)}
@@ -57,7 +57,7 @@ export function Layout({children}: {children: React.ReactNode}) {
     <footer>
       <div className="container footer-grid">
         <div className="footer-identity">
-          <Link className="brand" to="/"><span>P</span>{SITE.name}</Link>
+          <Link className="brand brand-footer" to="/" aria-label={`${SITE.name} home`}><img src="/images/logo.png" alt="" width="52" height="52"/><span className="brand-name">{SITE.name}</span></Link>
           <p>{SITE.tagline}</p>
           <address><strong>{SITE.contactName}</strong><br/>{SITE.address}<br/><a href={`tel:${SITE.phone.replace(/[^+\d]/g, '')}`}>{SITE.phone}</a></address>
         </div>
